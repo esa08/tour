@@ -1,31 +1,21 @@
 {
-"posts": [
-{
-"id": 1,
-"title": "Post 1"
-},
-{
-"id": 2,
-"title": "Post 2"
-},
-{
-"id": 3,
-"title": "Post 3"
-}
-],
-"comments": [
-{
-"id": 1,
-"body": "some comment",
-"postId": 1
-},
-{
-"id": 2,
-"body": "some comment",
-"postId": 1
-}
-],
-"profile": {
-"name": "typicode"
-}
+	"status_code": 200,
+	"message": "Get panoramas successfully",
+    "panoramas": [
+        {
+            "name": "Marriott Puebla Hotel Meson del Angel",
+            "image": "https://img.gothru.org/2617/11867195770137281590/20210705180433.OrafJx.jpg?resize=4000x2000",
+            "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=2617/11867195770137281590/20210705144017.LnLWCG_thumb.jpg&w=250&h=125&a=40&y=0&v=4"
+        }, 
+        {
+            "name": "Hotel Santa Justa Lisboa",
+            "image": "https://img.gothru.org/1620/15687156128275240154/CAoSLEFGMVFpcE83OHhyLXpEa0NSLW5jZ005UmlpVTlaS1UzcmpYd2tuT1J1WHhJ.jpg?resize=4000x2000",
+            "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=1620/15687156128275240154/CAoSLEFGMVFpcE0talN6TEpRMldGekllWXJ4NFBEN1E1aE9NQVBmcU5QRjNLWElX_thumb.jpg&w=250&h=125&a=40&y=0&v=1"
+        }, 
+        {
+            "name": "Gran Hotel De Jaca",
+            "image": "https://img.gothru.org/1620/15687156128275240154/CAoSLEFGMVFpcE83OHhyLXpEa0NSLW5jZ005UmlpVTlaS1UzcmpYd2tuT1J1WHhJ.jpg?resize=4000x2000",
+            "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=2354/3684797977001907836/20210704170734.OAfXVn_thumb.jpg&w=250&h=125&a=40&y=0&v=1"
+        }
+	]
 }
