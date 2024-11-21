@@ -1,38 +1,5 @@
 {
-    "panorama" : {
-        "panoramas": [
-            {
-                "name": "Marriott Puebla Hotel Meson del Angel",
-                "image": "https://img.gothru.org/2617/11867195770137281590/20210705180433.OrafJx.jpg?resize=4000x2000",
-                "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=2617/11867195770137281590/20210705144017.LnLWCG_thumb.jpg&w=250&h=125&a=40&y=0&v=4"
-            }, 
-            {
-                "name": "Hotel Santa Justa Lisboa",
-                "image": "https://img.gothru.org/1620/15687156128275240154/CAoSLEFGMVFpcE83OHhyLXpEa0NSLW5jZ005UmlpVTlaS1UzcmpYd2tuT1J1WHhJ.jpg?resize=4000x2000",
-                "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=1620/15687156128275240154/CAoSLEFGMVFpcE0talN6TEpRMldGekllWXJ4NFBEN1E1aE9NQVBmcU5QRjNLWElX_thumb.jpg&w=250&h=125&a=40&y=0&v=1"
-            }, 
-            {
-                "name": "Gran Hotel De Jaca",
-                "image": "https://img.gothru.org/1620/15687156128275240154/CAoSLEFGMVFpcE83OHhyLXpEa0NSLW5jZ005UmlpVTlaS1UzcmpYd2tuT1J1WHhJ.jpg?resize=4000x2000",
-                "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=2354/3684797977001907836/20210704170734.OAfXVn_thumb.jpg&w=250&h=125&a=40&y=0&v=1"
-            },
-            {
-                "name": "Angle oca",
-                "image": "https://img.gothru.org/2617/11867195770137281590/20210705180433.OrafJx.jpg?resize=4000x2000",
-                "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=2617/11867195770137281590/20210705144017.LnLWCG_thumb.jpg&w=250&h=125&a=40&y=0&v=4"
-            }, 
-            {
-                "name": "Hotel Bandung",
-                "image": "https://img.gothru.org/1620/15687156128275240154/CAoSLEFGMVFpcE83OHhyLXpEa0NSLW5jZ005UmlpVTlaS1UzcmpYd2tuT1J1WHhJ.jpg?resize=4000x2000",
-                "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=1620/15687156128275240154/CAoSLEFGMVFpcE0talN6TEpRMldGekllWXJ4NFBEN1E1aE9NQVBmcU5QRjNLWElX_thumb.jpg&w=250&h=125&a=40&y=0&v=1"
-            }, 
-            {
-                "name": "Gran Hotel",
-                "image": "https://img.gothru.org/1620/15687156128275240154/CAoSLEFGMVFpcE83OHhyLXpEa0NSLW5jZ005UmlpVTlaS1UzcmpYd2tuT1J1WHhJ.jpg?resize=4000x2000",
-                "thumbnail": "https://img.gothru.org/pano_zoom.php?p=&i=2354/3684797977001907836/20210704170734.OAfXVn_thumb.jpg&w=250&h=125&a=40&y=0&v=1"
-            }
-        ]
-    },
+    
     "news" : {
   "status": "ok",
   "totalResults": 12463,
@@ -283,32 +250,6 @@
     "urlToImage": "https://i.ytimg.com/vi/lwAScEQ753M/hqdefault.jpg",
     "publishedAt": "2024-11-20T06:40:00Z",
     "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+36179 chars]"
-    },
-    {
-    "source": {
-    "id": "t3n",
-    "name": "T3n"
-    },
-    "author": "Nils Bolder",
-    "title": "Interne E-Mails zeigen: OpenAI hatte Angst, dass Elon Musk Macht über KI bekommt",
-    "description": "Im Fall Musk gegen Altman sind nun interne E-Mails ans Licht gekommen. Diese enthüllen, dass OpenAI schon 2017 Angst vor Elon Musks Hunger nach Macht hatte.\nweiterlesen auf t3n.de",
-    "url": "https://t3n.de/news/interne-e-mails-zeigen-openai-hatte-angst-dass-elon-musk-macht-ueber-ki-bekommt-1658780/",
-    "urlToImage": "https://t3n.de/news/wp-content/uploads/2024/11/453350416.jpg",
-    "publishedAt": "2024-11-20T06:39:32Z",
-    "content": "Die derzeitige Struktur bietet dir einen Weg, auf dem du am Ende einseitig die absolute Kontrolle über die AGI hast, warf OpenAI-Mitgründer Ilya Sutskever 2017 seinem damaligen Kollegen Elon Musk vor… [+2654 chars]"
-    },
-    {
-    "source": {
-    "id": null,
-    "name": "Golem.de"
-    },
-    "author": "Andreas Donath",
-    "title": "Ladeinfrastruktur: Tesla-Supercharger mit 500 kW kommen 2025",
-    "description": "Tesla will ab dem kommenden Jahr V4-Supercharger in Betrieb nehmen, die Ladegeschwindigkeiten von bis zu 500 kW bieten. (Tesla, Elektroauto)",
-    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fladeinfrastruktur-tesla-supercharger-mit-500-kw-kommen-2025-2411-190943.html&referer=https%3A%2F%2Ft.co%2F722f7b3200",
-    "urlToImage": null,
-    "publishedAt": "2024-11-20T06:32:02Z",
-    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
     }
   ]
 }
