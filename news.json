@@ -1,1306 +1,1306 @@
 {
-"status": "ok",
-"totalResults": 12463,
-"articles": [
-{
-"source": {
-"id": "lenta",
-"name": "Lenta"
-},
-"author": "Карина Черных",
-"title": "Непристойные фото Ким Кардашьян с роботом Tesla смутили фанатов",
-"description": "Американская телезвезда Ким Кардашьян поделилась непристойными фото с роботом Tesla и смутила фанатов. Соответствующие публикация и комментарии появились на ее странице в Instagram (запрещенная в России соцсеть; принадлежит компании Meta, признанной экстремис…",
-"url": "https://lenta.ru/news/2024/11/20/nepristoynye-foto-kim-kardashyan-s-robotom-tesla-smutili-fanatov/",
-"urlToImage": "https://icdn.lenta.ru/images/2024/11/20/10/20241120103136966/share_22337f35e87c8a2d2b551ac429ad4c2f.jpeg",
-"publishedAt": "2024-11-20T07:44:00Z",
-"content": "Tesla . Instagram ( ; Meta,  ).\r\n 44- Tesla Cybertruck, . , . , .\r\n , . «- », « », «, - , », « », « », .\r\n , Tesla ."
-},
-{
-"source": {
-"id": null,
-"name": "Gizchina.gr"
-},
-"author": "Κυν. Αίγειρος",
-"title": "Nubia Z70 Ultra: επίδειξη ισχύος στο Geekbench με το Snapdragon 8 Elite",
-"description": "Λίγο πριν από την επίσημη αποκάλυψή του, το Nubia Z70 Ultra εμφανίστηκε στο Geekbench, διαμορφώνοντας μερικές εντυπωσιακές βαθμολογίες. Το τηλέφωνο, το οποίο θα ενταχθεί στις ...\nThe post Nubia Z70 Ultra: επίδειξη ισχύος στο Geekbench με το Snapdragon 8 Elite…",
-"url": "https://www.gizchina.gr/2024/11/20/nubia-z70-ultra-epideixi-ischyos/",
-"urlToImage": "https://www.gizchina.gr/wp-content/uploads/2024/11/Nubia-Z70-1.jpg",
-"publishedAt": "2024-11-20T07:42:59Z",
-"content": ", Nubia Z70 Ultra Geekbench, . , Snapdragon 8 Elite, . Geekbench, “NX736J”, Z70 Ultra 3203 10260 . 16 GB RAM Android 15 .  Nubia Z70 Ultra . , Snapdragon 8 Elite « ». , LPDDR5X RAM UFS 4.0.\r\nZ70 Ultr… [+309 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Biztoc.com"
-},
-"author": "wsj.com",
-"title": "STMicroelectronics Sees Slowing Sales Growth Amid Chip Market Woes",
-"description": "The Tesla supplier expects more than $20 billion in sales by the end of the decade, delaying a target it hoped to hit much earlier.",
-"url": "https://biztoc.com/x/aff0754c596f7bcb",
-"urlToImage": "https://biztoc.com/cdn/807/og.png",
-"publishedAt": "2024-11-20T07:41:35Z",
-"content": "The Tesla supplier expects more than $20 billion in sales by the end of the decade, delaying a target it hoped to hit much earlier.\r\nThis story appeared on wsj.com, 2024-11-20 07:32:00."
-},
-{
-"source": {
-"id": null,
-"name": "Feber.se"
-},
-"author": "Hugo Engström",
-"title": "Sony flaggskeppskamera blir ännu bättre",
-"description": "Släpper Alpha 1 II\n\n\n\n\n\n\nSony har lanserat Alpha 1 II, den andra generationen av sin flaggskeppskamera Alpha 1, med samma 50,1 MP fullformatssensor som originalet men med en ny AI-processor för förbättrad autofokus som identifierar fler motiv, inklusive djur,…",
-"url": "https://feber.se/pryl/sony-flaggskeppskamera-blir-annu-battre/474127/",
-"urlToImage": "https://static.feber.se/article_images/60/50/20/605020.jpg",
-"publishedAt": "2024-11-20T07:40:00Z",
-"content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+34568 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Portfolio.hu"
-},
-"author": "Portfolio.hu",
-"title": "Meglepő tanulmány érkezett: veszélyes autó a Tesla?",
-"description": "Az Egyesült Államokban végzett új autóipari tanulmány meglepő eredményt hozott: a Tesla járműveinél a legmagasabb a halálos kimenetelű balesetek aránya. A kutatás szerint azonban ez nem feltétlenül jelenti azt, hogy a Tesla autói nem biztonságosak - írta a Ex…",
-"url": "https://www.portfolio.hu/gazdasag/20241120/meglepo-tanulmany-erkezett-veszelyes-auto-a-tesla-724286",
-"urlToImage": "https://pcdn.hu/articles/images-lg/v/i/d/videon-ahogy-felrobbant-egy-tesla-azonnali-vizsgalatot-inditottak-311489.jpg",
-"publishedAt": "2024-11-20T07:37:00Z",
-"content": "Az iSeeCars által készített átfogó elemzés az amerikai halálesetek 2017 és 2022 közötti adatait vizsgálta. A kutatás eredményei szerint a Tesla jármveiben a halálos balesetek aránya 5,6 eset milliárd… [+1307 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Securityaffairs.com"
-},
-"author": "Pierluigi Paganini",
-"title": "Unsecured JupyterLab and Jupyter Notebooks servers abused for illegal streaming of Sports events",
-"description": "Threat actors exploit misconfigured JupyterLab and Jupyter Notebooks servers to rip sports streams and illegally redistribute them. Researchers from security firm Aqua observed threat actors exploiting misconfigured JupyterLab and Jupyter Notebook servers to …",
-"url": "https://securityaffairs.com/171193/cyber-crime/misconfigured-jupyterlab-and-jupyter-notebooks-illegal-live-sports-streaming.html",
-"urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/11/image-23.png",
-"publishedAt": "2024-11-20T07:32:57Z",
-"content": "Unsecured JupyterLab and Jupyter Notebooks servers abused for illegal streaming of Sports events\r\n | Russian Phobos ransomware operator faces cybercrime charges\r\n | Great Plains Regional Medical Cent… [+117561 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Elperiodico.com"
-},
-"author": "Mariona Artigas",
-"title": "Kim Kardashian tiene un nuevo amigo especial: cuesta más de 20 mil dólares",
-"description": "Kim Kardashian ha adquirido un nuevo producto Tesla. La empresaria multimillonaria tiene un especial interés por los artículos de la marca de Elon Musk y siempre es la primera en conseguir muchos de ellos, incluso antes de que salgan a la venta.Seguir leyendo…",
-"url": "https://www.elperiodico.com/es/gente/20241120/kim-kardashian-optimus-bot-tesla-elon-musk-ia-video-dv-111825057",
-"urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/ae38f735-3313-4ae9-ae30-529d05aa6f34_16-9-discover-aspect-ratio_default_0.jpg",
-"publishedAt": "2024-11-20T07:32:40Z",
-"content": "Kim Kardashian ha adquirido un nuevo producto Tesla. La empresaria multimillonaria tiene un especial interés por los artículosde la marca de Elon Musk y siempre es la primera en conseguir muchos de e… [+1644 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Hibridosyelectricos.com"
-},
-"author": "Javier Gómara",
-"title": "Tras retirar su primer coche de combustión por ser muy malo, esta marca ya ha fabricado 10 millones de coches enchufables",
-"description": "Hacía décadas que la industria del automóvil no veía algo así. Desde la época dorada del motor, allá por los albores del siglo XX, el sector no vislumbraba cifras de producción como las que ahora vemos en China. El país se ha transformado en la mayor de las s…",
-"url": "https://www.hibridosyelectricos.com/coches/retirar-su-primer-coche-combustion-por-ser-muy-malo-esta-marca-ya-ha-fabricado-10-millones-coches-enchufables_77015_102.html",
-"urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/86/23/37/byd-10-millones_17_2000x1126.jpeg",
-"publishedAt": "2024-11-20T07:30:00Z",
-"content": "Hacía décadas que la industria del automóvil no veía algo así. Desde la época dorada del motor, allá por los albores del siglo XX, el sector no vislumbraba cifras de producción como las que ahora vem… [+3476 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Standaard.be"
-},
-"author": "blg rvs",
-"title": "SpaceX voert opnieuw testvlucht uit met Starship, Trump kijkt toe",
-"description": "Het SpaceX van Elon Musk heeft dinsdag in Texas een zesde testvlucht uitgevoerd met Starship. Daarbij kon de draagraket van het ruimtevaartuig niet gerecupereerd worden. Toekomstig president Donald Trump was een opvallende aanwezige bij de lancering.",
-"url": "https://www.standaard.be/cnt/dmf20241120_92681612",
-"urlToImage": "https://static.standaard.be/Assets/Images_Upload/2024/11/20/0229e884-10ef-441d-8600-d6c3aecd42b6.jpg?maxheight=416&maxwidth=568",
-"publishedAt": "2024-11-20T07:23:06Z",
-"content": "Het SpaceX van Elon Musk heeft dinsdag in Texas een zesde testvlucht uitgevoerd met Starship. Daarbij kon de draagraket van het ruimtevaartuig niet gerecupereerd worden. Toekomstig president Donald T… [+2748 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Feber.se"
-},
-"author": "Wille Wilhelmsson",
-"title": "Nu går det att streama spel från molnet till PlayStation Portal",
-"description": "Uppdatering till Sonys handhållna spelkonsol\n\n\n\n\n\n\nSony har släppt en uppdatering till sin handhållna spelkonsol PlayStation Portal som gjort denna lite intressantare än vad den varit tidigare. Fram tills nu har det bara varit möjligt att streama spel via WiF…",
-"url": "https://feber.se/spel/nu-gar-det-att-streama-spel-fran-molnet-till-playstation-portal/474126/",
-"urlToImage": "https://static.feber.se/article_images/60/50/16/605016.jpg",
-"publishedAt": "2024-11-20T07:20:00Z",
-"content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+35280 chars]"
-},
-{
-"source": {
-"id": "focus",
-"name": "Focus"
-},
-"author": "dpa-AFX",
-"title": "Vermögensverwalter - DWS auch für 2025 optimistisch bei US-Aktien - Erholung in Europa erwartet",
-"description": "Die DWS erwartet weiterhin starke Erträge durch Trumps Deregulierungen in den USA, erkennt aber auch Risiken. Für Europa sieht der Vermögensverwalter 2025 gar nicht mal so schwarz.",
-"url": "https://www.focus.de/finanzen/boerse/vermoegensverwalter-dws-auch-fuer-2025-optimistisch-bei-us-aktien-erholung-in-europa-erwartet_id_260494133.html",
-"urlToImage": "https://p6.focus.de/img/fotos/id_260494116/boerse.jpg?im=Crop%3D%280%2C320%2C3410%2C1705%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=46493b3ae46d4fcbe5ba213663f12addca04aad3de68f99a1f0a88aad52b0757",
-"publishedAt": "2024-11-20T07:13:25Z",
-"content": "Die DWS erwartet weiterhin starke Erträge durch Trumps Deregulierungen in den USA, erkennt aber auch Risiken. Für Europa sieht der Vermögensverwalter 2025 gar nicht mal so schwarz.Die Vermögensverwal… [+3134 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "DW (English)"
-},
-"author": "Timothy Rooks",
-"title": "Elon Musk and conflicts of interest in Trump administration",
-"description": "Putting Elon Musk in charge of the new US Department of Government Efficiency is problematic. Can the richest man on Earth avoid conflicts of interest while heading the charge to cut government spending?",
-"url": "https://www.dw.com/en/elon-musk-and-conflicts-of-interest-in-trump-administration/a-70809011",
-"urlToImage": "https://static.dw.com/image/70753970_6.jpg",
-"publishedAt": "2024-11-20T07:01:00Z",
-"content": "A lot has been written about the budding friendship between President-elect Donald Trump and the world's richest man, Elon Musk.\r\nWhat seemed like a strange pairing has turned into a job opportunity … [+6153 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "DW (English)"
-},
-"author": "Timothy Rooks",
-"title": "Elon Musk risks conflict of interest in Trump administration",
-"description": "Putting Elon Musk in charge of the new US Department of Government Efficiency is problematic. Can the richest man on Earth avoid conflicts of interest while heading the charge to cut government spending?",
-"url": "https://www.dw.com/en/elon-musk-risks-conflict-of-interest-in-trump-administration/a-70809011",
-"urlToImage": "https://static.dw.com/image/70753970_6.jpg",
-"publishedAt": "2024-11-20T07:01:00Z",
-"content": "A lot has been written about the budding friendship between President-elect Donald Trump and the world's richest man, Elon Musk.\r\nWhat seemed like a strange pairing has turned into a job opportunity … [+6162 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Feber.se"
-},
-"author": "Hugo Engström",
-"title": "Nu kan utvecklare testa nästa Android",
-"description": "Google släpper första versionen av Android 16\n\n\n\n\n\n\nNu, bara en månad efter att Google uppdaterade Pixel-telefonerna till Android 15, har den första förhandsversionen av Android 16 släppts, mycket tidigare än vanligt. Denna första version är dock endast till …",
-"url": "https://feber.se/mobil/nu-kan-utvecklare-testa-nasta-android/474123/",
-"urlToImage": "https://static.feber.se/article_images/60/50/15/605015.jpg",
-"publishedAt": "2024-11-20T07:00:00Z",
-"content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+35012 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Hibridosyelectricos.com"
-},
-"author": "Gonzalo García",
-"title": "Elon Musk recibe la segunda recompensa por apoyar a Donald Trump: Tesla tendrá vía libre para sus coches eléctricos y autónomos",
-"description": "Elon Musk, CEO de Tesla, y también de empresas como Hyperloop o SpaceX, ha sido un partidario de Donald Trump, ahora reelegido para la Casa Blanca, desde su primera presidencia. Esta idea, que hace años podría parecer surrealista dada la pasada animadversión …",
-"url": "https://www.hibridosyelectricos.com/coches/elon-musk-recibe-segunda-recompensa-por-apoyar-donald-trump-tesla-tendra-via-libre-sus-coches-electricos-autonomos_77044_102.html",
-"urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/86/40/11/elon-musk-donald-trump-conduccion-autonoma-1_17_2000x1126.jpeg",
-"publishedAt": "2024-11-20T07:00:00Z",
-"content": "Elon Musk, CEO de Tesla, y también de empresas como Hyperloop o SpaceX, ha sido un partidario de Donald Trump, ahora reelegido para la Casa Blanca, desde su primera presidencia. Esta idea, que hace a… [+4857 chars]"
-},
-{
-"source": {
-"id": "der-tagesspiegel",
-"name": "Der Tagesspiegel"
-},
-"author": "Der Tagesspiegel",
-"title": "Weniger Anreize für E-Autos: Trump plant wohl Rücknahme von Bidens Umweltauflagen für Autoindustrie",
-"description": "Im Wahlkampf sprach Donald Trump schon davon, das „EV-Mandat“ beenden zu wollen. Einem Insider zufolge macht der designierte US-Präsident Ernst. Elon Musk dürfte das nicht gefallen.",
-"url": "https://www.tagesspiegel.de/internationales/weniger-anreize-fur-e-autos-trump-plant-wohl-rucknahme-von-bidens-umweltauflagen-fur-autoindustrie-12736574.html",
-"urlToImage": "https://www.tagesspiegel.de/images/12736628/alternates/BASE_16_9_W1400/1732085772000/donald-trump-watches-spacex-launch-its-sixth-test-flight-of-starship-spacecraft.jpeg",
-"publishedAt": "2024-11-20T06:56:32Z",
-"content": "Die künftige US-Regierung unter Donald Trump will Insidern zufolge zentrale Klimaschutzmaßnahmen von Präsident Joe Biden im Automobilsektor kippen. Die von Biden eingeführten strengeren Effizienzstan… [+2059 chars]"
-},
-{
-"source": {
-"id": "the-times-of-india",
-"name": "The Times of India"
-},
-"author": "Reuters",
-"title": "In high-wage Germany, Volkswagen's labour costs outstrip the competition",
-"description": "Volkswagen faces pressure to reduce labor costs in Germany as they exceed those of rivals like BMW and Mercedes-Benz. While unions demand a 7% pay rise, the company, grappling with high production costs and competition from cheaper Chinese models, proposes a …",
-"url": "https://economictimes.indiatimes.com/news/international/business/in-high-wage-germany-volkswagens-labour-costs-outstrip-the-competition/articleshow/115475723.cms",
-"urlToImage": "https://img.etimg.com/thumb/msid-115475757,width-1200,height-630,imgsize-84174,overlay-economictimes/articleshow.jpg",
-"publishedAt": "2024-11-20T06:50:41Z",
-"content": "As Volkswagen and unions gear up for the next round of talks over wages and plant closures in Germany, company and industry data reviewed by Reuters show that the automaker spends a higher proportion… [+4762 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Mail.ru"
-},
-"author": "Motor.ru",
-"title": "Игрушечную фигурку робота Tesla раскупили менее чем за сутки",
-"description": "Мерч Tesla разбирают с огромной скоростью",
-"url": "https://auto.mail.ru/article/98520-igrushechnuyu-figurku-robota-tesla-raskupili-menee-chem-za-sutki/",
-"urlToImage": "https://resizer.mail.ru/p/518e0d90-cf10-5c17-8f98-636114c99a94/AQABaTFK3DiGN9hfWTUKQh8RsYZD_QRs3gBxrkJBN-LGQFWxTxyZQHhQkzcg_57oSR0ypXzzm6I07grN-hfyrwDIb9U.png",
-"publishedAt": "2024-11-20T06:50:00Z",
-"content": "Tesla 40 .       Optimus   1:10. Tesla Bot Action Figure    ,   , — .   ,   ,         .\r\n  Tesla Bot Action Figure « -   ».     1:10      40  20 , «   », Tesla.\r\n .   ,    eBay,  130  1300 (12,9−130 … [+94 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Feber.se"
-},
-"author": "Wille Wilhelmsson",
-"title": "Starships sjätte flygning blev ganska lyckad",
-"description": "Trots att allt inte gick som SpaceX planerat\n\n\n\n\n\n\n\n\n\n\nIgår kväll svensk tid genomförde SpaceX ett sjätte test med Starship, farkosten som förhoppningsvis ska landa astronauter på månen i framtiden. \n\nTestet gick inte helt som SpaceX hade planerat. Startraket…",
-"url": "https://feber.se/vetenskap/starships-sjatte-flygning-blev-ganska-lyckad/474124/",
-"urlToImage": "https://i.ytimg.com/vi/lwAScEQ753M/hqdefault.jpg",
-"publishedAt": "2024-11-20T06:40:00Z",
-"content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+36179 chars]"
-},
-{
-"source": {
-"id": "t3n",
-"name": "T3n"
-},
-"author": "Nils Bolder",
-"title": "Interne E-Mails zeigen: OpenAI hatte Angst, dass Elon Musk Macht über KI bekommt",
-"description": "Im Fall Musk gegen Altman sind nun interne E-Mails ans Licht gekommen. Diese enthüllen, dass OpenAI schon 2017 Angst vor Elon Musks Hunger nach Macht hatte.\nweiterlesen auf t3n.de",
-"url": "https://t3n.de/news/interne-e-mails-zeigen-openai-hatte-angst-dass-elon-musk-macht-ueber-ki-bekommt-1658780/",
-"urlToImage": "https://t3n.de/news/wp-content/uploads/2024/11/453350416.jpg",
-"publishedAt": "2024-11-20T06:39:32Z",
-"content": "Die derzeitige Struktur bietet dir einen Weg, auf dem du am Ende einseitig die absolute Kontrolle über die AGI hast, warf OpenAI-Mitgründer Ilya Sutskever 2017 seinem damaligen Kollegen Elon Musk vor… [+2654 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Golem.de"
-},
-"author": "Andreas Donath",
-"title": "Ladeinfrastruktur: Tesla-Supercharger mit 500 kW kommen 2025",
-"description": "Tesla will ab dem kommenden Jahr V4-Supercharger in Betrieb nehmen, die Ladegeschwindigkeiten von bis zu 500 kW bieten. (Tesla, Elektroauto)",
-"url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fladeinfrastruktur-tesla-supercharger-mit-500-kw-kommen-2025-2411-190943.html&referer=https%3A%2F%2Ft.co%2F722f7b3200",
-"urlToImage": null,
-"publishedAt": "2024-11-20T06:32:02Z",
-"content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
-},
-{
-"source": {
-"id": "bild",
-"name": "Bild"
-},
-"author": null,
-"title": "Spielzeug für Mega-Star - Neuer „Freund“ für Kim Kardashian",
-"description": "Kim Kardashian stellt Elon Musks Optimus-Roboter vor und interagiert spielerisch mit dem Tesla-Produkt.",
-"url": "https://www.bild.de/news/ausland/kim-kardashian-hat-ein-neues-spielzeug-neuer-freund-fuer-mega-star-673cba1aa698fc73a9efa657",
-"urlToImage": "https://images.bild.de/673cba1aa698fc73a9efa657/885c9882ba47be7c47da4b68762706cf,6af6b19d?w=1280",
-"publishedAt": "2024-11-20T06:30:29Z",
-"content": "Mehr zum Video anzeigen \r\nKim Kardashian stellt Elon Musks Optimus-Roboter vor und interagiert spielerisch mit ihm. Der Tesla-Roboter soll ab 2026 für langweilige und unsichere Aufgaben eingesetzt we… [+61 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Iphones.ru"
-},
-"author": "Илья Сидоров",
-"title": "Ким Кардашьян первой в мире получила на тест роботов Tesla Optimus и беспилотное такси Tesla Cybercab",
-"description": "Ким Кардашьян опубликовала в X несколько фото и видео с роботом Tesla Optimus и беспилотным такси Cybercab. Похоже, она стала первым человеком в мире, получившим предсерийные образцы этих продуктов. Cybercab был представлен в октябре 2024 года, а его выпуск з…",
-"url": "https://www.iphones.ru/iNotes/kim-kardashyan-pervoy-v-mire-poluchila-na-test-robotov-tesla-optimus-i-bespilotnoe-taksi-tesla-cybercab",
-"urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2024%2F11%2FGczi8oqbcAAazFh.jpeg",
-"publishedAt": "2024-11-20T06:29:08Z",
-"content": "X Tesla Optimus Cybercab.\r\n, , . Cybercab 2024 , 2027 .\r\n , Optimus . \r\n , , Cybercab. , «» «» .\r\n , . [TechCrunch]"
-},
-{
-"source": {
-"id": null,
-"name": "Overclockers.ru"
-},
-"author": "Алексей Сычёв",
-"title": "Samsung и SK hynix разрабатывают вариант памяти HBM4 для нужд Tesla",
-"description": "У корейских производителей памяти есть и другие заказчики на продукцию этого типа.",
-"url": "https://overclockers.ru/hardnews/show/137863/samsung-i-sk-hynix-razrabatyvajut-variant-pamyati-hbm4-dlya-nuzhd-tesla",
-"urlToImage": "https://overclockers.ru/st/images/preview/tXqRhLCUZYA4KEPN.jpg",
-"publishedAt": "2024-11-20T06:29:00Z",
-"content": "Korean Economic Daily, Tesla Samsung SK hynix HBM4, . HBM4, .\r\n Tesla HBM4, Google, Meta Platforms Microsoft. NVIDIA, , . HBM4 Tesla D1. , Tesla, .\r\n , HBM4 1,4 , HBM3E 30% . Samsung HBM4 Tesla , SK … [+24 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Feber.se"
-},
-"author": "Bobby Green",
-"title": "Nu kan du beställa uppdaterade Kia EV6",
-"description": "Kostar från 595.400 kronor\n\n\n\n\n\n\n\n\n\n\n\n\nKias design mellan modellerna har spretat lite de senaste åren men nu börjar de stöpa alla som erbjuds i typ samma form. I maj visade man upp en uppdatering av elbilen EV6 som fått nytt ansikte för att matcha sina syskon…",
-"url": "https://feber.se/bil/nu-kan-du-bestalla-uppdaterade-kia-ev6/474121/",
-"urlToImage": "https://static.feber.se/article_images/60/50/10/605010.jpg",
-"publishedAt": "2024-11-20T06:20:00Z",
-"content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+35791 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Yahoo Entertainment"
-},
-"author": "Victoria Waldersee and Christoph Steitz",
-"title": "Exclusive-In high-wage Germany, VW's labour costs outstrip the competition",
-"description": "As Volkswagen and unions gear up for the next round of talks over wages and plant closures in Germany, company and industry data reviewed by Reuters show...",
-"url": "https://finance.yahoo.com/news/exclusive-high-wage-germany-vws-060754261.html",
-"urlToImage": "https://media.zenfs.com/en/reuters-finance.com/af3e484f10b75e0752d2b2ccc084575d",
-"publishedAt": "2024-11-20T06:07:54Z",
-"content": "Volkswagen's labour costs in Germany are higher than its major rivals, with the company spending 15.4% of its revenue on labour costs globally, compared to 9.5-11% for BMW, Mercedes-Benz, and Stellan… [+5684 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Hola"
-},
-"author": "Ana Merodio",
-"title": "La familia real más rica del mundo: su fortuna eclipsa a la de Elon Musk y Jeff Bezos juntos",
-"description": "Se trata de la Casa de Saud, también conocida como Al Saud,  la dinastía de la familia real de Arabia Saudí",
-"url": "https://www.hola.com/actualidad/20241119730945/la-familia-real-mas-rica-del-mundo-una-fortuna-que-eclipsa-a-elon-musk-y-bill-gates-juntos/",
-"urlToImage": "https://www.hola.com/horizon/landscape/c7d7fa41f10d-gettyimages-473199638.jpg?im=Resize=(1200)",
-"publishedAt": "2024-11-20T06:03:00Z",
-"content": "Cuando se habla de riqueza, opulencia y lujo, ningún otro nombre se compara con el de la Casa de Saud, la dinastía gobernante de Arabia Saudita. Su patrimonio, estimado en unos 1.324 billones de euro… [+4675 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Ambcrypto.com"
-},
-"author": "Akashnath S",
-"title": "POWSCHE up 740% in a week, but how far will memecoin mania take it now?",
-"description": "The next few weeks are likely to be spectacularly bullish for POWSCHE.",
-"url": "https://ambcrypto.com/powsche-up-740-in-a-week-but-how-far-will-memecoin-mania-take-it-now/",
-"urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/11/POWSCHE-featured.webp",
-"publishedAt": "2024-11-20T06:00:03Z",
-"content": "<ul><li>At the time of writing, POWSCHE had a bullish outlook</li><li>Social media hype and engagement will be critical for sustained gains and demand</li></ul>POWSCHE saw a 740% rally from 11 Novemb… [+1697 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Feber.se"
-},
-"author": "Wille Wilhelmsson",
-"title": "Första trailern till A Minecraft Movie släppt",
-"description": "Har premiär i april\n\n\n\n\n\n\n\n\n\n\nNästa år är det dags för premiär för Minecraft-filmen A Minecraft Movie och här kommer en första trailer för filmen. \n\nI filmen får vi se Jack Black spela rollen som Steve som tillsammans med sina vänner måste rädda Overworld frå…",
-"url": "https://feber.se/film/forsta-trailern-till-a-minecraft-movie-slappt/474119/",
-"urlToImage": "https://i.ytimg.com/vi/wJO_vIDZn-I/hqdefault.jpg",
-"publishedAt": "2024-11-20T06:00:00Z",
-"content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+35128 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Naturalnews.com"
-},
-"author": "Ava Grace",
-"title": "Tesla recalls over 2,400 Cybertrucks due to faulty parts that could increase risk of crashing",
-"description": "Tesla has announced that it is recalling more than 2,400 of its Cybertruck electric pickup trucks in the United States due to faulty parts that could lead to a loss of power and an increased risk of a crash. A fault in the driver inverter in Cybertrucks manuf…",
-"url": "https://www.naturalnews.com/2024-11-20-tesla-recalls-cybertrucks-due-to-faulty-parts.html",
-"urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/11/tesla-cybertruck.png",
-"publishedAt": "2024-11-20T06:00:00Z",
-"content": "Tesla has announced that it is recalling more than 2,400 of its Cybertruck electric pickup trucks in the United States due to faulty parts that could lead to a loss of power and an increased risk of … [+3563 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Naturalnews.com"
-},
-"author": "Ethan Huff",
-"title": "Susie Wiles, Trump’s pick for chief of staff, ran P.R. campaigns for GAVI, the Vaccine Alliance, Gilead, Pfizer, and long list of globalist companies",
-"description": "The first-ever woman appointed for the position, Susie Wiles is slated to become President-elect Donald Trump’s chief of staff come January – though there are some things you should know about this career globalist. Wiles is currently a co-chair at Mercury Pu…",
-"url": "https://www.naturalnews.com/2024-11-20-susie-wiles-trump-chief-staff-career-globalist.html",
-"urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/11/Susie-Wiles-Donald-Trump.jpg",
-"publishedAt": "2024-11-20T06:00:00Z",
-"content": "The first-ever woman appointed for the position, Susie Wiles is slated to become President-elect Donald Trump's chief of staff come January though there are some things you should know about this car… [+3764 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Caradisiac.com"
-},
-"author": "Manuel Cailliot",
-"title": "Stellantis annonce une autonomie record de 800 km en électrique avec sa nouvelle plateforme \"STLA Frame\"",
-"description": "Cela concerne essentiellement les marques Jeep, et RAM. La toute dernière plateforme de Stellantis \"STLA Frame\", avec la possibilité d'intégrer un accumulateur entre 159 et 200 kWh, pourra permettre à certains modèles, malgré une grosse consommation, d'affich…",
-"url": "https://www.caradisiac.com/stellantis-annonce-une-autonomie-record-de-800-km-en-electrique-avec-sa-nouvelle-plateforme-stla-frame-212382.htm",
-"urlToImage": "https://images.caradisiac.com/logos/5/8/2/5/285825/S9-stellantis-annonce-une-autonomie-record-de-800-km-en-electrique-avec-sa-nouvelle-plateforme-stla-frame-212382.jpg",
-"publishedAt": "2024-11-20T06:00:00Z",
-"content": "On parle beaucoup plus de Stellantis, dernièrement, et à raison, pour ses soucis de baisse de rentabilité, de ventes en bernes, et de fiabilité de ses modèles (PureTech, BlueHDI, airbags Takata, etc.… [+5379 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Substack.com"
-},
-"author": "hormiga",
-"title": "X Out - by John Paul Brammer - ¡Hola Papi!",
-"description": "A salty, cranky case for letting Twitter die",
-"url": "https://holapapi.substack.com/p/x-out",
-"urlToImage": "https://images.unsplash.com/photo-1690981897603-d799d39c3e00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHx0d2l0dGVyJTIweHxlbnwwfHx8fDE3MzE5Mzk1OTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
-"publishedAt": "2024-11-20T05:47:01Z",
-"content": "Your paid support makes creative endeavors like these possible. Thank you.\r\nLet me tell you a story about the killing of a bird. Its as much a tragedy as it is a comedy. \r\nTwitter has been seeing a s… [+17214 chars]"
-},
-{
-"source": {
-"id": "abc-news-au",
-"name": "ABC News (AU)"
-},
-"author": "Esther Linder",
-"title": "Brazil's president is trying to get billionaires taxed fairly — here's where he has got to so far",
-"description": "Billionaires could be forced to pay a minimum rate of tax on their wealth after a global grouping of nations agrees to effectively tax the ultra-rich.",
-"url": "https://www.abc.net.au/news/2024-11-20/g20-global-tax-on-billionaires-lula-wealth/104624714",
-"urlToImage": "https://live-production.wcms.abc-cdn.net.au/1210e6c7b7700b3b243a950fe9574136?impolicy=wcms_watermark_news&cropH=1692&cropW=3008&xPos=0&yPos=53&width=862&height=485&imformat=generic",
-"publishedAt": "2024-11-20T05:46:47Z",
-"content": "A landmark call for billionaires to be taxed at a minimum rate has been agreed to in principle at the G20 summit, as all countries present endorsed the measure.\r\nA report by economist Gabriel Zucman … [+2831 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Orf.at"
-},
-"author": "ORF.at",
-"title": "Trump nominiert Linda McMahon als US-Bildungsministerin",
-"description": null,
-"url": "https://orf.at/stories/3376488/",
-"urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
-"publishedAt": "2024-11-20T05:36:14Z",
-"content": "Die frühere Chefin von World Wrestling Entertainment, Linda McMahon, soll in der künftigen US-Regierung unter Donald Trump Bildungsministerin werden. McMahon sei eine leidenschaftliche Verfechterin d… [+3352 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Libremercado.com"
-},
-"author": "Diego Sánchez de la Cruz",
-"title": "Vuelos supersónicos, coches autónomos… Las innovaciones que piden menos trabas a Trump y Musk",
-"description": "El presidente electo encomienda al propietario de Tesla la desregulación. El I+D, expectante, también en campos como la salud o la energía.",
-"url": "https://www.libremercado.com/2024-11-20/vuelos-supersonicos-coches-autonomos-las-innovaciones-que-piden-menos-trabas-a-trump-y-musk-7187617/",
-"urlToImage": "https://s.libertaddigital.com/2024/11/18/1200/627/lm/avion-supersonico-boom-supersonic-overture-prototipo.png",
-"publishedAt": "2024-11-20T05:32:45Z",
-"content": "Waymo es una empresa filial del grupo Alphabet, propietaria de Google, dedicada a la producción de coches de conducción autónoma. Constituida en 2009, fue lanzada con el apoyo de diversos innovadores… [+6482 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Technews.tw"
-},
-"author": "MoneyDJ",
-"title": "特斯拉致力開發 AI 晶片，傳要三星、SK 海力士提供 HBM4 樣本",
-"description": "韓媒傳出，特斯拉（Tesla Inc.）為了開發自有的 AI 晶片，已要求三星電子（Samsung Electronics Co.）、SK 海力士（SK Hynix Inc.）提供第六代高頻寬記憶體（HBM）「HBM4」樣本。 《韓國經濟新聞》19日引述業界消息報導，特斯拉要求三星、SK海力士供應通...",
-"url": "https://technews.tw/2024/11/20/tesla-hbm4-sample/",
-"urlToImage": "https://img.technews.tw/wp-content/uploads/2024/09/04173137/shutterstock_2437515801.jpg",
-"publishedAt": "2024-11-20T05:30:14Z",
-"content": "Tesla Inc. AI Samsung Electronics Co.SK SK Hynix Inc.HBMHBM4\r\n19SKHBM4\r\nGoogleMeta PlatformsMicrosoftHBM4AIHBMAI\r\nDojoFull Self-DrivingAI\r\nHBMAIDojoHBMDojoAID1HBM4AI\r\nMorgan Stanley2027HBM202340330HB… [+69 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Investing.com"
-},
-"author": "Reuters",
-"title": "China's Xpeng says no impact from US curbs on its Turing AI chip output",
-"description": "China's Xpeng says no impact from US curbs on its Turing AI chip output",
-"url": "https://www.investing.com/news/stock-market-news/xpeng-forecasts-quarterly-revenue-above-estimates-3729510",
-"urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
-"publishedAt": "2024-11-20T05:25:41Z",
-"content": "(Reuters) -Chinese electric vehicle maker Xpeng (NYSE:XPEV) said mass production of its Turing self-designed artificial intelligence chip was progressing well, dismissing concerns it could be hit by … [+2093 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Süddeutsche Zeitung"
-},
-"author": "Alle Entwicklungen im Liveblog",
-"title": "US-Regierung: Trump will Ex-Wrestling-Managerin McMahon als Bildungsministerin",
-"description": "Die einstige Wrestling-Unternehmerin werde Amerika zur „Nummer eins bei Bildung in der Welt machen“, sagte der designierte Präsident. Der TV-Arzt Oz soll die Gesundheitssysteme Medicare und Medicaid verantworten. Wall-Street-Manager Lutnick wird als US-Handel…",
-"url": "https://www.sueddeutsche.de/politik/us-wahl-2024-news-liveblog-trump-kabinett-mcmahon-bildungsministerin-lux.JsBoEhvK9KD62rkh3f5szc",
-"urlToImage": "https://www.sueddeutsche.de/2024/11/20/c2cc09bc-b4fd-4a85-a3d8-6739bfa7d91a.jpeg?q=60&fm=webp&width=1200&rect=0%2C46%2C3000%2C1688",
-"publishedAt": "2024-11-20T05:18:02Z",
-"content": "Der ehemalige Kongressabgeordnete Sean Duffy soll das Amt des Verkehrsministers übernehmen. Der 53-Jährige ist aktuell Co-Moderator einer Sendung beim Sender Fox Business, und war zuvor von 2011 bis … [+1472 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Digi24.ro"
-},
-"author": "Raul Nețoiu",
-"title": "Elon Musk vrea să le dea „delete” unor părți din guvernul SUA. Ce agenții federale au intrat în vizorul lui Donald Trump",
-"description": "În noul lor rol de lideri ai Departamentului Eficienței Guvernamentale, miliardarul Elon Musk, fondatorul SpaceX și Tesla, și milionarul Vivek Ramaswamy, fondatorul Roivant Sciences și investitor în domeniul biotehnologiei, au promis că le vor da „delete” age…",
-"url": "https://www.digi24.ro/stiri/externe/sua/elon-musk-vrea-sa-le-dea-delete-unor-parti-din-guvernul-sua-ce-agentii-federale-au-intrat-in-vizorul-lui-donald-trump-3012463",
-"urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMSUyRjE5JTJGMjEzMTk2NF8yMTMx/OTY0X0Vsb24tTXVzay1zdGVhZy1zdWEu/anBnJnc9MTIwMCZoPTYzMCZ6Yz0xJmhh/c2g9MDJmZTVjNzlmNTRmYzNhNWU1ZjAyYzk1NzBjMGViNDA=.thumb.jpg",
-"publishedAt": "2024-11-20T05:00:19Z",
-"content": "În noul lor rol de lideri ai Departamentului Eficienei Guvernamentale, miliardarul Elon Musk, fondatorul SpaceX i Tesla, i milionarul Vivek Ramaswamy, fondatorul Roivant Sciences i investitor în dome… [+4079 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Americanthinker.com"
-},
-"author": null,
-"title": "Why isn't Joe Biden at Elon Musk's mighty, history-making, SpaceX launches?",
-"description": "Elon Musk is making history.\r\n\r\nNo, not in being the first African-American to have as much as he has. It's not an identity thing, though he is fiercely American.\r\n\r\nUp until now, one's identity was the only subject of",
-"url": "https://www.americanthinker.com/blog/2024/11/why_isn_t_joe_biden_at_elon_musk_s_mighty_history_making_spacex_launches.html",
-"urlToImage": "https://images.americanthinker.com/m2/m24jwmrpr1zw3m2amrvy_800.JPG",
-"publishedAt": "2024-11-20T05:00:00Z",
-"content": "Elon Musk is making history.\r\nNo, not in being the first African-American to have as much as he has. It's not an identity thing, though he is fiercely American.\r\nUp until now, one's identity was the … [+3852 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Americanthinker.com"
-},
-"author": null,
-"title": "Stuck on stupid: Jaguar takes a drive off Bud Light cliff",
-"description": "Some things I can't understand.\r\n\r\nSuch as how a storied old company with a golden brand name could desecrate its image through a new campaign",
-"url": "https://www.americanthinker.com/blog/2024/11/stuck_on_stupid_jaguar_takes_a_drive_off_budlight_cliff.html",
-"urlToImage": "https://images.americanthinker.com/te/tevnbitnulgpvzbktauf_800.JPG",
-"publishedAt": "2024-11-20T05:00:00Z",
-"content": "Some things I can't understand.\r\nSuch as how a storied old company with a golden brand name could desecrate its image through a new campaign \"proving\" that it's woke and out of touch with the public?… [+5221 chars]"
-},
-{
-"source": {
-"id": "the-times-of-india",
-"name": "The Times of India"
-},
-"author": "Reuters",
-"title": "Senator says Trump cannot ignore law requiring ByteDance to divest TikTok by next year",
-"description": "Senator Richard Blumenthal, a Democrat who is holding a hearing on Chinese hacking incidents, cited the law passed by Congress in April as a result of security concerns that China could access data on TikTok on Americans or spy on them with the app.",
-"url": "https://economictimes.indiatimes.com/tech/technology/senator-says-trump-cannot-ignore-law-requiring-bytedance-to-divest-tiktok-by-next-year/articleshow/115472041.cms",
-"urlToImage": "https://img.etimg.com/thumb/msid-115472258,width-1200,height-630,imgsize-1161004,overlay-ettech/articleshow.jpg",
-"publishedAt": "2024-11-20T04:56:03Z",
-"content": "President-elect Donald Trump cannot ignore a law requiring Chinese-based ByteDance to divest its popular short video app TikTok in the US by early next year or face a ban, the Democratic chair of a U… [+2640 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Vox"
-},
-"author": "Li Zhou",
-"title": "Trump wants a big expansion in fossil fuel production. Can he do that?",
-"description": "During his campaign, President-elect Donald Trump had a pointed tagline for his energy policy: “Drill, baby, drill.” That statement is emblematic of where Trump is poised to focus his efforts in a second term: He’s pledged US “energy dominance” and everything…",
-"url": "https://www.vox.com/politics/386462/trump-fossil-fuels-gas-oil",
-"urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/11/gettyimages-1449198646.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-"publishedAt": "2024-11-20T04:47:30Z",
-"content": "During his campaign, President-elect Donald Trump had a pointed tagline for his energy policy: Drill, baby, drill.\r\nThat statement is emblematic of where Trump is poised to focus his efforts in a sec… [+10193 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "BBC News"
-},
-"author": "https://www.facebook.com/bbcnews",
-"title": "\"El milagro alemán se ha terminado y Europa sufrirá las consecuencias\": Kaput, el libro que explica la caída económica de Alemania",
-"description": "Alemania protagonizó un “milagro económico” después de la Segunda Guerra Mundial que duró décadas. Sin embargo, la mayor economía de Europa está en problemas. Entrevistamos a Wolfgang Münchau, autor del libro Kaput.",
-"url": "https://www.bbc.com/mundo/articles/c704lkllzxlo",
-"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/09a6/live/7b0e63b0-a34b-11ef-b604-65e44831060d.jpg",
-"publishedAt": "2024-11-20T04:33:16Z",
-"content": "Fuente de la imagen, Getty Images\r\nPie de foto, Después de cuatro períodos como canciller, Merkel dejó el poder en diciembre de 2021.\r\nInformación del artículo\r\nAlemania atraviesa tiempos realmente c… [+14310 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Süddeutsche Zeitung"
-},
-"author": "Lara Thiede",
-"title": "Raumfahrt: Raketensystem „Starship“ meistert Testflug - mit Makel",
-"description": "Bald soll Elon Musks SpaceX-Rakete der Menschheit den Mars erschließen. Bei ihrem sechsten Testflug ist auch Donald Trump als Zuschauer dabei. Es misslingt die Rückführung der Trägerrakete.",
-"url": "https://www.sueddeutsche.de/wirtschaft/spacex-rakete-testflug-starship-lux.HvwDygqrp7mzRneJvSKeEt",
-"urlToImage": "https://www.sueddeutsche.de/2024/11/20/371f6fd6-5d67-4b99-a4af-2580bc639101.jpeg?q=60&fm=webp&width=1200&rect=0%2C0%2C3900%2C2194",
-"publishedAt": "2024-11-20T04:14:43Z",
-"content": "Der designierte US-Präsident Donald Trump verfolgte zusammen mit SpaceX-Gründer Elon Musk den Start am Dienstag vor Ort in Texas.\r\nDas Starship erreichte bei seinem Trip eine Höhe von knapp 200 Kilom… [+1054 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "3dnews.ru"
-},
-"author": null,
-"title": "Ким Кардашьян лично протестировала робота Optimus и беспилотное такси Tesla Cybercab",
-"description": "Ким Кардашьян (Kim Kardashian) получила уникальную возможность протестировать робота-гуманоида Tesla Optimus. Звезда реалити-шоу опубликовала в своих социальных сетях видео, демонстрирующие её взаимодействие с Optimus. Она попросила робота сложить руки в форм…",
-"url": "https://3dnews.ru/1114286/kim-kardashyan-lichno-protestirovala-robota-optimus-i-kibertaksi-tesla",
-"urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/11/20/1114286/Tesla-Optimus-1.jpg",
-"publishedAt": "2024-11-20T04:10:00Z",
-"content": "(Kim Kardashian) - Tesla Optimus. - , Optimus. , «, , ».\r\n: Tesla\r\n, TechCrunch, , , , Tesla Cybercab — , , (Elon Musk), 2027 . Optimus : «, ». Cybercab, «» «». , X.\r\nTesla Optimus «We, Robot» , , , … [+80 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Unwire.hk"
-},
-"author": "藍骨",
-"title": "Jaguar 大改品牌形象　準備變身全電車品牌",
-"description": "英國豪華車廠 Jaguar（積架）最近宣佈，將會採用全新品牌形象，一改以往的典雅風格，改為前衛簡約的設計。\nThe post Jaguar 大改品牌形象　準備變身全電車品牌 appeared first on 香港 unwire.hk 玩生活．樂科技.",
-"url": "https://unwire.hk/2024/11/20/jaguar-reimagined/life-tech/auto/",
-"urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/11/download1-17-694x390.jpg",
-"publishedAt": "2024-11-20T04:00:59Z",
-"content": "Jaguar\r\nJaguar Land Rover Gerry McGovern Jaguar \r\nJaguar Sir William Lyons Jaguar copy nothingdelete ordinarylive vivid\r\nJaguar 2026 Tesla Jaguar super-GT \r\nJaGUar\r\n:<li> Hyundai Kona Mauna Loa </li>… [+26 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Investing.com"
-},
-"author": "Reuters",
-"title": "Trump, Musk watch SpaceX launch Starship, booster misses landing",
-"description": "Trump, Musk watch SpaceX launch Starship, booster misses landing",
-"url": "https://www.investing.com/news/world-news/spacex-to-launch-sixth-starship-test-from-texas-with-trump-attending-3730771",
-"urlToImage": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
-"publishedAt": "2024-11-20T03:42:16Z",
-"content": "By Joey Roulette\r\n(Reuters) -Elon Musk's SpaceX launched its giant Starship rocket to space from Texas on Tuesday, advancing the ship's spaceflight abilities but botching an attempt to bring its boos… [+4412 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Technews.tw"
-},
-"author": "姚 惠茹",
-"title": "全球 8 家企業市值破兆美元！波克夏唯一非科技類股、Meta 僅 9 年達陣",
-"description": "隨著 AI 席捲全球，美股不斷衝高，全球已有 8 家企業市值破兆美元，其中有些數字觀察非常有趣，像是市值站穩第八大的波克夏（Berkshire Hathaway）是唯一非科技類股，市值在今年 8 月 28 日正式突破一兆美元大關，總計耗時 44 年 5 個月又 13 天，而市值最快破兆美元的是 Me...",
-"url": "https://finance.technews.tw/2024/11/20/breaking-the-trillion-dollar-mark/",
-"urlToImage": "https://img.technews.tw/wp-content/uploads/2024/08/29121013/shutterstock_1931158067.jpg",
-"publishedAt": "2024-11-20T03:32:21Z",
-"content": "AI 8 Berkshire Hathaway 8 28 44 5 13 Meta 9 1 10 \r\n 4 1 1 8 28 Warren Buffett 1980 44 5 13 \r\n 1980 12 18 Apple 37 7 15 2018 8 2 3 4 1986 3 13 Microsoft 33 1 12 2019 4 25 \r\nNVIDIA AI 1999 6 22 24 4 8 … [+183 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Crimethinc.com"
-},
-"author": "CrimethInc. Ex-Workers Collective",
-"title": "The Case for Resistance : What We’re Up Against—and What It Could Look Like to Fight",
-"description": "In this analysis, we explore what to expect from Donald Trump's second term and how we can prepare to confront it.",
-"url": "https://crimethinc.com/2024/11/20/the-case-for-resistance-what-were-up-against-and-what-it-could-look-like-to-fight",
-"urlToImage": "https://cdn.crimethinc.com/assets/articles/2024/11/20/header.jpg",
-"publishedAt": "2024-11-20T03:31:21Z",
-"content": "In the following analysis, we explore what we can expect from Donald Trump’s second term and how we can prepare to confront it. If you only have time to read one part, read the proposals for what we … [+45088 chars]"
-},
-{
-"source": {
-"id": "bild",
-"name": "Bild"
-},
-"author": "Marcel Sacha",
-"title": "Elon Musk und Donald Trump - Wie lange hält diese Freundschaft?",
-"description": "Die Männerfreundschaft zwischen Donald Trump und Elon Musk sorgt für Schlagzeilen. Doch wie lange hält diese politische Verbindung?",
-"url": "https://www.bild.de/politik/ausland-und-internationales/elon-musk-und-donald-trump-wie-lange-haelt-diese-freundschaft-673d34804df82f515063d1f3",
-"urlToImage": "https://images.bild.de/673d34804df82f515063d1f3/cbd6ec88a7a93ace388d75dfcbaa9829,711ab2cc?w=1280",
-"publishedAt": "2024-11-20T03:17:11Z",
-"content": "Es ist die Männerfreundschaft des Jahres! Donald Trump und Elon Musk sind seit Wochen kaum noch voneinander zu trennen. Aber wird die einflussreiche Bromance (englisches Kofferwort für Brüderromanze)… [+2818 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "CNBC"
-},
-"author": null,
-"title": "Trump tariffs to push down U.S. growth 'a great deal' going into 2026, Morgan Stanley warns",
-"description": "Donald Trump's proposed tariffs will dent U.S. economic growth going into 2026, said Morgan Stanley's chief global economist Seth Carpenter.",
-"url": "https://www.cnbc.com/2024/11/20/trump-tariffs-to-push-down-us-growth-going-into-2026-morgan-stanley.html",
-"urlToImage": "https://image.cnbcfm.com/api/v1/image/107187949-1675342426596-gettyimages-1461475908-inflationoutstrippingwagesinmostuscities008.jpeg?v=1709706881&w=1920&h=1080",
-"publishedAt": "2024-11-20T03:13:00Z",
-"content": "Donald Trump's proposed tariffs will dent U.S. economic growth going into 2026, said Morgan Stanley's chief global economist Seth Carpenter.\r\nPresident-elect Trump has stated that he intends to impos… [+2138 chars]"
-},
-{
-"source": {
-"id": "der-tagesspiegel",
-"name": "Der Tagesspiegel"
-},
-"author": "Der Tagesspiegel",
-"title": "Auflösung des Tesla-Protestcamps in Brandenburg: Polizei wieder im Einsatz – einige Aktivisten hängen noch in Bäumen",
-"description": "Den dritten Tag in Folge ist die Polizei wegen Umweltaktivisten in Grünheide vor Ort. Mehrere Tesla-Gegner weigerten sich bisher, das Gelände zu verlassen.",
-"url": "https://www.tagesspiegel.de/potsdam/brandenburg/protest-gegen-tesla-autofabrik-auflosung-des-tesla-protestcamps-polizei-wieder-im-einsatz-12736220.html",
-"urlToImage": "https://www.tagesspiegel.de/images/12736217/alternates/BASE_16_9_W1400/1732071717000/polizei-einsatz-im-tesla-protestcamp-in-grunheide.jpeg",
-"publishedAt": "2024-11-20T03:01:57Z",
-"content": "Trotz der Auflösung des Protestcamps von Tesla-Gegnern in Grünheide bei Berlin ist heute Vormittag erneut mit einem Polizeieinsatz der Spezialisten der Höhenrettung zu rechnen. Einige Aktivisten hing… [+3211 chars]"
-},
-{
-"source": {
-"id": "der-tagesspiegel",
-"name": "Der Tagesspiegel"
-},
-"author": "Der Tagesspiegel",
-"title": "Protest gegen Tesla-Autofabrik: Auflösung des Tesla-Protestcamps - Polizei wieder im Einsatz",
-"description": "Den dritten Tag in Folge ist die Polizei wegen Umweltaktivisten in Grünheide im Einsatz - trotz der Auflösung des Protestcamps.",
-"url": "https://www.tagesspiegel.de/berlin/protest-gegen-tesla-autofabrik-auflosung-des-tesla-protestcamps-polizei-wieder-im-einsatz-12736220.html",
-"urlToImage": "https://www.tagesspiegel.de/images/12736217/alternates/BASE_16_9_W1400/1732071717000/polizei-einsatz-im-tesla-protestcamp-in-grunheide.jpeg",
-"publishedAt": "2024-11-20T03:01:57Z",
-"content": "Trotz der Auflösung des Protestcamps von Tesla-Gegnern in Grünheide bei Berlin ist heute Vormittag erneut mit einem Polizeieinsatz der Spezialisten der Höhenrettung zu rechnen. Einige Aktivisten hing… [+2182 chars]"
-},
-{
-"source": {
-"id": "der-tagesspiegel",
-"name": "Der Tagesspiegel"
-},
-"author": "Der Tagesspiegel",
-"title": "Aktivisten von den Bäumen geholt: Räumung des Tesla-Protestcamps in Brandenburg beendet",
-"description": "Den dritten Tag in Folge ist die Polizei wegen Umweltaktivisten in Grünheide vor Ort. Mehrere Tesla-Gegner hatten sich geweigert, das Gelände zu verlassen.",
-"url": "https://www.tagesspiegel.de/potsdam/brandenburg/aktivisten-von-den-baumen-geholt-raumung-des-tesla-protestcamps-in-brandenburg-beendet-12736220.html",
-"urlToImage": "https://www.tagesspiegel.de/images/12740510/alternates/BASE_16_9_W1400/1732111844000/raumung-tesla-protestcamp-in-grunheide.jpeg",
-"publishedAt": "2024-11-20T03:01:57Z",
-"content": "Nach tagelangem Einsatz hat die Polizei die Räumung des Protestcamps von Tesla-Gegnern im Wald nahe der Autofabrik in Grünheide bei Berlin abgeschlossen. Spezialisten der Polizei holten am Mittwoch e… [+3165 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "STERN.de"
-},
-"author": "STERN.de",
-"title": "Protest gegen Tesla-Autofabrik: Auflösung des Tesla-Protestcamps - Polizei wieder im Einsatz",
-"description": "Grünheide - Trotz der Auflösung des Protestcamps von Tesla-Gegnern in Grünheide bei Berlin ist heute Vormittag erneut mit einem Polizeieinsatz der",
-"url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/protest-gegen-tesla-autofabrik--aufloesung-des-tesla-protestcamps---polizei-wieder-im-einsatz-35242498.html",
-"urlToImage": "https://image.stern.de/35242500/t/K-/v1/w1440/r1.7778/-/20--r4vtj2lgxkv13axs2048jpeg---ce38ca0a2ac800fc.jpg",
-"publishedAt": "2024-11-20T03:00:44Z",
-"content": "Kopiere den aktuellen Link\r\nDen dritten Tag in Folge ist die Polizei wegen Umweltaktivisten in Grünheide im Einsatz - trotz der Auflösung des Protestcamps.\r\nTrotz der Auflösung des Protestcamps von T… [+2245 chars]"
-},
-{
-"source": {
-"id": "die-zeit",
-"name": "Die Zeit"
-},
-"author": "ZEIT ONLINE: News -",
-"title": "Protest gegen Tesla-Autofabrik: Auflösung des Tesla-Protestcamps - Polizei wieder im Einsatz",
-"description": "Hier finden Sie Informationen zu dem Thema „Protest gegen Tesla-Autofabrik“. Lesen Sie jetzt „Auflösung des Tesla-Protestcamps - Polizei wieder im Einsatz“.",
-"url": "https://www.zeit.de/news/2024-11/20/aufloesung-des-tesla-protestcamps-polizei-wieder-im-einsatz",
-"urlToImage": "https://img.zeit.de/news/2024-11/20/aufloesung-des-tesla-protestcamps-polizei-wieder-im-einsatz-image-group/wide__1300x731",
-"publishedAt": "2024-11-20T03:00:44Z",
-"content": "Trotz der Auflösung des Protestcamps von Tesla-Gegnern in Grünheide bei Berlin ist heute Vormittag erneut mit einem Polizeieinsatz der Spezialisten der Höhenrettung zu rechnen. Einige Aktivisten hing… [+2745 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Ceebeks.com"
-},
-"author": "Angie",
-"title": "Why Bother Doing Content Marketing? - Ceebeks",
-"description": "Hello Chasers, There is so much to do running a business that there doesn’t seem to be much time left for marketing, however, this is one of (if not the most important) strategies for growing your business and staying relevant in the eyes of your existing and…",
-"url": "https://www.ceebeks.com/why-bother-doing-content-marketing/",
-"urlToImage": "https://www.ceebeks.com/wp-content/uploads/2024/11/WWW-20th-Nov-2024.gif",
-"publishedAt": "2024-11-20T02:37:15Z",
-"content": "Hello Chasers,\r\nThere is so much to do running a business that there doesnt seem to be much time left for marketing, however, this is one of (if not the most important) strategies for growing your bu… [+2615 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "BBC News"
-},
-"author": "https://www.facebook.com/bbcnews",
-"title": "Trump và Tập: Có thể hàn gắn mối quan hệ ‘nồng ấm’ đã tan vỡ?",
-"description": "Trong nhiệm kỳ thứ hai, ông Trump sẽ đối đầu với một Tập Cận Bình quyền lực hơn bao giờ hết. Sẽ có một cuộc chiến tranh thương mại thứ hai hay ông Tập một lần nữa sẽ dẫn ông Trump tham quan Tử Cấm Thành và dành cho nhau những lời êm ái?",
-"url": "https://www.bbc.com/vietnamese/articles/cy4g2kj02e1o",
-"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/14e5/live/952ed250-a6e5-11ef-a4fe-a3e9a6c5d640.png",
-"publishedAt": "2024-11-20T02:16:17Z",
-"content": "Chp li hình nh, Ông Donald Trump tng tuyên b mình và ông Tp Cn Bình yêu quý nhau\r\nTi mt công viên th thao giáp vi nhng bc tng và tm lát màu xanh bóng chy vòng quanh Thiên àn Bc Kinh, mt nhóm hu trí a… [+12233 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Newsweekjapan.jp"
-},
-"author": "ニューズウィーク日本版ウェブ編集部",
-"title": "【動画】テスラ人型ロボット「Tesla Bot」と交流するキム・カーダシアン...「金持ち自慢」と批判の声も [最新記事_2]",
-"description": "＜キム・カーダシアンが18日、テスラが開発中の2足歩行型の人型ロボット「Tesla Bot」を「新しい友人」と呼び、交流する様子をインスタグラムのストーリーに投稿＞ 走る動作にフラダンス、投げキスも披露 Tesla let Kim Kardashian hang out today with the company's Optimus robot.Kim posted the video to her 500 million followers across social media. pic.twitter.c…",
-"url": "https://www.newsweekjapan.jp/stories/culture/2024/11/525219.php",
-"urlToImage": "https://www.newsweekjapan.jp/stories/assets_c/2024/11/newsweekjp20241120033629-7e446d1e00f8601857fbd6992f12c943410371d5-thumb-autox675-1405561.jpg",
-"publishedAt": "2024-11-20T02:15:30Z",
-"content": "Tesla let Kim Kardashian hang out today with the company's Optimus robot.\r\nKim posted the video to her 500 million followers across social media. pic.twitter.com/SPF5jBmWti\r\n— Sawyer Merritt (@Sawyer… [+25 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Pajiba.com"
-},
-"author": "Mike Redmond",
-"title": "Dave Coulier to People Dragging John Stamos: 'Cut. It. Out.'",
-"description": "Yesterday, John Stamos shared an Instagram photo where he showed \"solidarity\" with Dave Coulier by wearing a bald cap. Naturally, it didn't take long for people to tear Stamos a new one because, usually, the move in these situations is...\nRead more...",
-"url": "https://www.pajiba.com/pajiba_love/dave-coulier-to-people-dragging-john-stamos-cut-it-out.php",
-"urlToImage": "https://www.pajiba.com/assets_c/2024/11/dave-coulier-john-stamos-thumb-700x467-266753.jpg",
-"publishedAt": "2024-11-20T02:00:00Z",
-"content": "Yesterday, John Stamos shared an Instagram photo where he showed “solidarity” with Dave Coulier by wearing a bald cap. Naturally, it didn’t take long for people to tear Stamos a new one because, usua… [+1433 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Cnbeta.com.tw"
-},
-"author": null,
-"title": "FF首批FX原型车已成功抵达FF中国总部：两倍性能 一半价格",
-"description": "法拉第未来官方微博宣布，首批FX原型车已成功抵达FF中国总部，该批车辆将从北京启程，前往洛杉矶FF总部。FF表示，首批原型车的起运标志着该车型开发测试阶段的正式启动，FX项目也将进入快车道，加速为美国用户提供“两倍性能、一半价格”的AIEV产品，朝着成为“AIEV时代的丰田”的目标前进。\r\nFX全球首席执行官Max Ma指出，首批原型车的起运是FX与合作伙伴扬帆美国AIEV蓝海市场的开始，这将为FX达成2025年底前首款车下线的战略目标进一步打下坚实基础，接下来，我们将在美国开启一系列测试工作，尽快打造出极致体价…",
-"url": "https://www.cnbeta.com.tw/articles/tech/1456610.htm",
-"urlToImage": "https://static.cnbetacdn.com/article/2024/1120/2af5946a5a55c3f.png",
-"publishedAt": "2024-11-20T01:36:19Z",
-"content": "0  2024-11-20 09:18:32\r\nFXMax MaFXAIEVFX2025AIEV\r\nFXFXTeslaTesla\r\n46TeslaTesla2-33-55-8\r\nFX 5FX 6AIEVAIEVFX2025\r\ncreated by ceallan"
-},
-{
-"source": {
-"id": null,
-"name": "Freerepublic.com"
-},
-"author": "Reuters via AOL",
-"title": "US Senate panel to hold hearing on suspected Chinese hacking incidents",
-"description": "WASHINGTON (Reuters) -A U.S. Senate Judiciary subcommittee overseeing technology issues will hold a hearing Tuesday on Chinese hacking incidents, including a recent incident involving American telecom companies. The hearing to be chaired by Senator Richard Bl…",
-"url": "https://freerepublic.com/focus/f-chat/4279553/posts",
-"urlToImage": null,
-"publishedAt": "2024-11-20T01:16:03Z",
-"content": "Skip to comments.\r\nUS Senate panel to hold hearing on suspected Chinese hacking incidentsReuters via AOL ^\r\n | 11/18/24\r\n | David Shepardson\r\nPosted on 11/19/2024 5:16:03 PM PST by Libloather\r\nWASHIN… [+3195 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Forbes"
-},
-"author": "Will Townsend, Contributor, \n Will Townsend, Contributor\n https://www.forbes.com/sites/moorinsights/people/willtownsend/",
-"title": "5G Techritory 2024 Reaches Beyond Mobile Connectivity",
-"description": "The Riga, Latvia event highlights innovative use cases that leverage 5G, AI, mixed reality and more while fostering collaboration between government and private industry.",
-"url": "https://www.forbes.com/sites/moorinsights/2024/11/19/5g-techritory-2024-reaches-beyond-mobile-connectivity/",
-"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673d30c379e1267e2a404f45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-"publishedAt": "2024-11-20T00:51:06Z",
-"content": "Non-Terrestrial Networks panel discussion at 5G Techritory 2024\r\nWill Townsend\r\nThis year marked my sixth anniversary participating in 5G Techritory. Based in the beautiful Latvian city of Riga, the … [+7642 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Fark.com"
-},
-"author": null,
-"title": "Dear Quentin: As a Democrat who drives a Tesla I've been told that I'm a hypocrite. Should I sell my car? [Facepalm]",
-"description": "Dear Quentin: As a Democrat who drives a Tesla I've been told that I'm a hypocrite. Should I sell my car?",
-"url": "https://www.fark.com/comments/13468336/Dear-Quentin-As-a-Democrat-who-drives-a-Tesla-Ive-been-told-that-Im-a-hypocrite-Should-I-sell-my-car",
-"urlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
-"publishedAt": "2024-11-20T00:38:52Z",
-"content": "Rambino:petec: AmbassadorBooze: montreal_medic: AmbassadorBooze: Don't sell it.  That just passes the infection on.  If you own a Tesla, you are already corrupted.  The best thing you can do is destr… [+404 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Terra.com.br"
-},
-"author": "Reuters",
-"title": "Trump e Musk acompanham lançamento da Starship da SpaceX, mas booster não consegue aterrissar",
-"description": "A SpaceX, de Elon Musk, lançou seu foguete Starship gigante para o espaço a partir do Texas ...",
-"url": "https://www.terra.com.br/noticias/mundo/trump-e-musk-assistem-lancamento-do-starship-da-spacex-do-texas,31bd195119b80358eccd671ff6ab9faf0tum10wr.html",
-"urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-"publishedAt": "2024-11-20T00:29:04Z",
-"content": "A SpaceX, de Elon Musk, lançou seu foguete Starship gigante para o espaço a partir do Texas nesta terça-feira, avançando as habilidades de voo espacial da nave, mas falhando em uma tentativa de traze… [+3798 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Technews.tw"
-},
-"author": "MoneyDJ",
-"title": "甩烏俄戰陰影，輝達財報前勁揚、費半漲",
-"description": "輝達（Nvidia Corp.）在財報公布前勁揚，激勵那斯達克指數、費城半導體指數雙雙反彈，投資人甩脫烏克蘭、俄羅斯關係日趨緊繃的地緣政治陰霾。 道瓊工業平均指數11月19日終場下跌0.28%（120.66點）、收43,268.94點，創11月5日以來收盤新低，已連續第4個交易日走跌。那斯達克指數上...",
-"url": "https://finance.technews.tw/2024/11/20/usa-stock-market-19th-november/",
-"urlToImage": "https://img.technews.tw/wp-content/uploads/2022/01/04154823/shutterstock_1917266012.jpg",
-"publishedAt": "2024-11-20T00:15:12Z",
-"content": "Nvidia Corp.\r\n11190.28%120.6643,268.9411541.04%195.6618,987.475000.4%23.365,916.980.62%30.384,919.15\r\nVladimir Putin\r\nSergei Lavrov\r\n204.89%147.011112FactSet8-100.70329.6MizuhoJordan Klein11-1390~400… [+261 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Motley Fool Australia"
-},
-"author": "Zach Bristow",
-"title": "Could the S&P 500 Index hit 6,500 by the end of 2025?",
-"description": "Could the index climb higher?\nThe post Could the S&P 500 Index hit 6,500 by the end of 2025? appeared first on The Motley Fool Australia.",
-"url": "https://www.fool.com.au/2024/11/20/could-the-sp-500-index-hit-6500-by-the-end-of-2025/",
-"urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/05/GettyImages-183766131-1-1200x675.jpg",
-"publishedAt": "2024-11-20T00:12:19Z",
-"content": "Several heavyweights predict a strong finish for the S&amp;P 500 Index (SP: .INX) in the next two years, which could be good news for those seeking exposure to US shares. \r\nAs a reminder, the S&amp;P… [+3249 chars]"
-},
-{
-"source": {
-"id": "fox-news",
-"name": "Fox News"
-},
-"author": "Andrea Margolis",
-"title": "Brazil's first lady aims explicit joke at key target of husband's administration: 'F--k you, Elon Musk'",
-"description": "Brazil’s first lady Janja Lula da Silva ripped Elon Musk over the weekend, telling the entrepreneur that she \"isn't afraid of him\" during a pre-G20 event.",
-"url": "https://www.foxnews.com/world/brazils-first-lady-aims-explicit-joke-key-target-husbands-administration-f-k-you-elon-musk",
-"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/copy-of-right-inset-48.png",
-"publishedAt": "2024-11-20T00:11:14Z",
-"content": "The first lady of Brazil turned heads when she dropped an f-bomb directed at Tesla CEO Elon Musk during an official event over the weekend.\r\nAt the time, Brazils first lady, Janja Lula da Silva, was … [+2086 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Pravda.com.ua"
-},
-"author": "Українська правда",
-"title": "Трамп разом з Маском спостерігав за запуском Starship SpaceX",
-"description": "У штаті Техас компанія SpaceX мільярдера Ілона Маска запустила свою ракетну систему Starship у шостий випробувальний політ. На стартовому майданчику компанії в Техасі був присутній новообраний президент США Дональд Трамп.",
-"url": "https://www.pravda.com.ua/news/2024/11/20/7485385/",
-"urlToImage": "https://img.pravda.com/images/doc/7/4/7485385_fb_image_ukr_2024_11_20_02_17_06.jpg",
-"publishedAt": "2024-11-20T00:04:34Z",
-"content": "SpaceX Starship . .\r\n: Reuters\r\n: 122 , , SpaceX -, .\r\n , - .\r\nReuters , Starship , , , , , .\r\n, , , 119 .\r\n\" , ', - , \", - , .\r\n13 , , SpaceX Tesla, , .\r\n , , .\r\n FAA Starship , , SpaceX, , .\r\n – St… [+66 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Pravda.com.ua"
-},
-"author": "Украинская правда",
-"title": "Трамп вместе с Маском наблюдал за запуском Starship SpaceX",
-"description": "В штате Техас компания SpaceX миллиардера Илона Маска запустила свою ракетную систему Starship в шестой испытательный полет. На стартовой площадке компании в Техасе присутствовал новоизбранный президент США Дональд Трамп.",
-"url": "https://www.pravda.com.ua/rus/news/2024/11/20/7485385/",
-"urlToImage": "https://img.pravda.com/images/doc/7/4/7485385_fb_image_rus_2024_11_20_02_17_06.jpg",
-"publishedAt": "2024-11-20T00:04:34Z",
-"content": "SpaceX Starship . .\r\n: Reuters\r\n 122 , , SpaceX -, .\r\n , - .\r\nReuters , Starship , , , , , .\r\n, , , 119 .\r\n\" , , - , \", - , .\r\n13 , , SpaceX Tesla, , .\r\n , , .\r\n FAA Starship , , SpaceX, , .\r\n - Star… [+64 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Investing.com"
-},
-"author": "Investing.com",
-"title": "Tesla chair Robyn Denholm sells $35.3 million in stock",
-"description": "Tesla chair Robyn Denholm sells $35.3 million in stock",
-"url": "https://www.investing.com/news/insider-trading-news/tesla-chair-robyn-denholm-sells-353-million-in-stock-93CH-3731462",
-"urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA6F0VZ_L.jpg",
-"publishedAt": "2024-11-20T00:02:40Z",
-"content": "Robyn Denholm, Chair of Tesla, Inc. (NASDAQ:TSLA), has recently sold a significant portion of her holdings in the company. According to a recent filing, Denholm sold shares valued at approximately $3… [+3932 chars]"
-},
-{
-"source": {
-"id": "fox-news",
-"name": "Fox News"
-},
-"author": "Joshua Nelson",
-"title": "​Elon Musk and Vivek Ramaswamy approve the 'very reasonable proposal' to abolish Department of Education",
-"description": "President-elect Donald Trump's appointments to his Department of Government Efficiency approve of the idea of abolishing the Department of Education.",
-"url": "https://www.foxnews.com/media/elon-musk-vivek-ramaswamy-approve-very-reasonable-proposal-abolish-department-education",
-"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/elon-vivek.jpg",
-"publishedAt": "2024-11-20T00:00:39Z",
-"content": "Elon Musk and Vivek Ramaswamy, appointments of President-elect Donald Trumps Department of Government Efficiency, gave their approval to a proposal that abolishes the Department of Education.\r\nCorey … [+1859 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "CNET"
-},
-"author": null,
-"title": "株式会社グローバルインフォメーション電気自動車用通信コントローラの市場規模、2031年に15億米ドル到達予測",
-"description": "株式会社グローバルインフォメーション（所在地：神奈川県川崎市、代表者：樋口 荘祐、証券コード：東証スタンダード 4171）は、市場調査レポート「電気自動車用通信コントローラの世界の市場規模、シェア、動向分析レポート（システム別、充電別、電気自動車別、用途別、地域別、展望と予測、2024年～2031年）」（KBV R...",
-"url": "https://japan.cnet.com/release/31056601/",
-"urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
-"publishedAt": "2024-11-20T00:00:00Z",
-"content": "2024CAGR32.7%203115\r\nEVEVCCEVEVIDEV202330%\r\n20249Vector Informatik GmbHEVCCISO 15118-20MICROSAR Classic Release 3220249Wiser HomeAIEV\r\nTesla, Inc.Siemens AGABB Group20249SiemenseMobilityHeliox\r\nEVCCE… [+88 chars]"
-},
-{
-"source": {
-"id": "fortune",
-"name": "Fortune"
-},
-"author": "Chris Megerian, Michelle L. Price, The Associated Press",
-"title": "Musk and Trump watch SpaceX launch together as Elon earns ‘uncle’ status among president-elect’s family",
-"description": "Trump’s granddaughter Kai Trump posted a photo of her with Musk at one of Trump’s golf resorts, writing that Musk was \"achieving uncle status.”",
-"url": "https://fortune.com/2024/11/19/donald-trump-elon-musk-spacex-starship-rocket-launch-texas/",
-"urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/AP24324790453118-e1732060630586.jpg?resize=1200,600",
-"publishedAt": "2024-11-19T23:59:45Z",
-"content": "For two weeks, Donald Trump has welcomed Elon Musk into his world. On Tuesday, it was Musks turn to play host to the president-elect.Trump flew to South Texas to watch as Musks SpaceX launched a Star… [+4790 chars]"
-},
-{
-"source": {
-"id": "newsweek",
-"name": "Newsweek"
-},
-"author": "Dan Gooding",
-"title": "Alexis Pelosi's Government Salary Comes Under Scrutiny",
-"description": "The niece-in-law of former House Speaker Nancy Pelosi was reportedly paid over $140,000 for her role with a government department.",
-"url": "https://www.newsweek.com/nancy-pelosi-niece-government-salary-criticized-1988624",
-"urlToImage": "https://d.newsweek.com/en/full/2525140/nancy-pelosi.jpg",
-"publishedAt": "2024-11-19T23:50:27Z",
-"content": "The salary paid to Nancy Pelosi's niece for her role within a federal government agency has come under scrutiny, including from one of the nominated heads of the new Department of Government Efficien… [+2930 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Starobserver.com.au"
-},
-"author": "Staff Writers",
-"title": "GQ’s Beach House: Luxury & Community in St Kilda’s Vibrant Gaybourhood",
-"description": "Nestled in the heart of St Kilda, Beach House by Gurner Group™ in partnership with Qualitas offers renters an unparalleled living experience.  St Kilda has long been a cultural epicentre ...\nThe post GQ’s Beach House: Luxury & Community in St Kilda’s Vibrant …",
-"url": "https://www.starobserver.com.au/sponsored-content/gqs-beach-house-luxury-community-in-st-kildas-vibrant-gaybourhood/233639",
-"urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2024/11/Beach-House-V2.png",
-"publishedAt": "2024-11-19T23:48:23Z",
-"content": "Nestled in the heart of St Kilda, Beach House by Gurner Group in partnership with Qualitas offers renters an unparalleled living experience. \r\nSt Kilda has long been a cultural epicentre for Melbourn… [+4570 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Overclockers.ru"
-},
-"author": "g1tarist",
-"title": "Все фигурки робота Optimus от Tesla были распроданы в течение дня по 40$ за штуку",
-"description": "Фигурка выполнена в масштабе 1:10 и состоит из более чем 40 деталей",
-"url": "https://overclockers.ru/blog/letsplay/show/192154/Vse-figurki-robota-Optimus-raskupili-v-techenie-dnya-po-40-za-shtuku",
-"urlToImage": "https://overclockers.ru/st/legacy/blog/422417/588609_O.png",
-"publishedAt": "2024-11-19T23:36:46Z",
-"content": "Optimus Tesla, - , . , 40 , .\r\n Optimus 1:10 40 20 .   . 182 , 55 , 48 . , .\r\n, , , . Tesla Bot II Tesla, .\r\n Tesla , ."
-},
-{
-"source": {
-"id": "cbc-news",
-"name": "CBC News"
-},
-"author": null,
-"title": "Elon Musk launches Starship test flight with Donald Trump watching",
-"description": "Elon Musk's SpaceX launched its sixth Starship test flight to space on Tuesday from Texas, eyeing an array of improvements on the rocket as U.S. president-elect Donald Trump watched in person.",
-"url": "https://www.cbc.ca/news/world/elon-musk-starship-trump-1.7387893",
-"urlToImage": "https://i.cbc.ca/1.7387942.1732057867!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump.JPG",
-"publishedAt": "2024-11-19T23:26:05Z",
-"content": "Elon Musk's SpaceX launched its sixth Starship test flight to space on Tuesday from Texas, eyeing an array of improvements on the rocket as U.S. president-elect Donald Trump watched in person.\r\nThe r… [+5877 chars]"
-},
-{
-"source": {
-"id": "newsweek",
-"name": "Newsweek"
-},
-"author": "Jon Jackson",
-"title": "Donald Trump Joins Elon Musk for SpaceX Launch",
-"description": "The president-elect traveled to Texas to join Musk for the latest SpaceX launch of a Starship rocket.",
-"url": "https://www.newsweek.com/donald-trump-joins-elon-musk-spacex-launch-1988613",
-"urlToImage": "https://d.newsweek.com/en/full/2525134/elon-musk-donald-trump-texas.jpg",
-"publishedAt": "2024-11-19T23:03:10Z",
-"content": "President-elect Donald Trump joined Elon Musk in south Texas on Tuesday to watch SpaceX launch a Starship rocket.\r\nThough the launch was a success, SpaceX opted not to catch the booster with large me… [+2724 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Jalopnik"
-},
-"author": "Logan Carter",
-"title": "2025 Mini Cooper Convertible Is Still An Exuberant Droptop That’s Unapologetic About Prioritizing Fun",
-"description": "I’m a massive fan of Minis, both literally and figuratively. I’m 6-foot-8 and own a four-door 2017 Mini Cooper S hatchback, and anyone who knows me knows how much I love my car. In the modern profit-driven automotive market, automakers are consolidating produ…",
-"url": "https://jalopnik.com/2025-mini-cooper-convertible-is-still-an-exuberant-drop-1851702462",
-"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c142f3572d7f63343ec362a79f303a57.jpg",
-"publishedAt": "2024-11-19T23:01:00Z",
-"content": "Im a massive fan of Minis, both literally and figuratively. Im 6-foot-8 and own a four-door 2017 Mini Cooper S hatchback, and anyone who knows me knows how much I love my car. In the modern profit-dr… [+5824 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Adevarul.ro"
-},
-"author": "Afrodita Cicovschi",
-"title": "Germania bulversează întreaga industrie auto europeană: livrările, afectate de întârzieri și amenzi uriașe",
-"description": "Transportatorii de mașini din Europa se confruntă cu costuri de sute de mii de euro și potențiale amenzi după introducerea standardelor germane privind modul în care sunt asigurate vehiculele în remorci.",
-"url": "https://adevarul.ro/economie/germania-bulverseaza-intreaga-industrie-auto-2402686.html",
-"urlToImage": "https://cdn.adh.reperio.news/image-c/c156d9dc-5db6-46f7-9ef9-42b40c57045d/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
-"publishedAt": "2024-11-19T23:00:25Z",
-"content": "Transportatorii de maini din Europa se confrunt cu costuri de sute de mii de euro i poteniale amenzi dup introducerea standardelor germane privind modul în care sunt asigurate vehiculele în remorci.\r… [+4971 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "ZyCrypto"
-},
-"author": "Muthoni Mary Kiama",
-"title": "Analyst Eyes 120% Dogecoin Surge as Elon Musk Revives “Dogefather” Title",
-"description": "Dogecoin (DOGE) continues to garner attention across the crypto market after outperforming all the top ten largest cryptocurrencies by market cap.",
-"url": "https://zycrypto.com/analyst-eyes-120-dogecoin-surge-as-elon-musk-revives-dogefather-title/",
-"urlToImage": "https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg",
-"publishedAt": "2024-11-19T22:55:37Z",
-"content": "Dogecoin (DOGE) continues to garner attention across the crypto market after outperforming all the top ten largest cryptocurrencies by market capitalization with a 167% monthly gain. Dogecoins rally … [+2153 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Aristeguinoticias.com"
-},
-"author": "Redacción AN / AG",
-"title": "Videos | Trump se une a Elon Musk para el lanzamiento de la nave espacial de SpaceX",
-"description": "\"Buena suerte a Elon Musk y a los grandes patriotas involucrados en este increíble proyecto\", dijo Trump en X.",
-"url": "https://aristeguinoticias.com/1911/mundo/videos-trump-se-une-a-elon-musk-para-el-lanzamiento-de-la-nave-espacial-de-spacex/",
-"urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/11/trump-musk-lanzamiento-nave-starship-spacex-19112024.jpg",
-"publishedAt": "2024-11-19T22:41:12Z",
-"content": "Donald Trump, presidente electo de Estados Unidos, viajó este martes a Texas para acompañar al multimillonario Elon Musk a presenciar la sexta prueba de lanzamiento de la nave Starship de SpaceX.\r\n“B… [+1603 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Forbes.com.mx"
-},
-"author": "Forbes Staff",
-"title": "SpaceX inicia la sexta prueba del Starship, con Musk y Trump como testigos",
-"description": "Forbes México.\n SpaceX inicia la sexta prueba del Starship, con Musk y Trump como testigos\n\nEl cohete, el más grande construido hasta la fecha, despega desde Starbase, la base ubicada en Boca Chica, cerca de la frontera con México.\nSpaceX inicia la sexta prue…",
-"url": "https://forbes.com.mx/spacex-completa-la-sexta-prueba-del-starship-con-musk-y-trump-como-testigos/",
-"urlToImage": "https://cdn.forbes.com.mx/2024/11/cohete.webp",
-"publishedAt": "2024-11-19T22:38:53Z",
-"content": "SpaceX inició la sexta prueba del Starship, el mayor cohete espacial jamás construido, con éxito, bajo la mirada atenta del CEO de la empresa aeroespacial, Elon Musk y el presidente electo de Estados… [+1567 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Securityaffairs.com"
-},
-"author": "Pierluigi Paganini",
-"title": "Russian Phobos ransomware operator faces cybercrime charges",
-"description": "Russian Phobos ransomware operator Evgenii Ptitsyn, accused of managing attacks, was extradited from South Korea to the US to face cybercrime charges. Russian Phobos ransomware operator Evgenii Ptitsyn, suspected of playing a key role in the ransomware operat…",
-"url": "https://securityaffairs.com/171184/cyber-crime/phobos-ransomware-operator-faces-cybercrime-charges.html",
-"urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
-"publishedAt": "2024-11-19T22:36:29Z",
-"content": "Russian Phobos ransomware operator faces cybercrime charges\r\n | Great Plains Regional Medical Center ransomware attack impacted 133,000 individuals\r\n | Recently disclosed VMware vCenter Server bugs a… [+117460 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Sky.com"
-},
-"author": "Tim Jones",
-"title": "Trump watches SpaceX launch, but test flight does not go as planned",
-"description": "Elon Musk's SpaceX has successfully performed another launch of its Starship rocket in front of President-elect Donald Trump, but the test flight did not go perfectly.",
-"url": "https://news.sky.com/story/donald-trump-watches-spacex-launch-with-elon-musk-but-test-flight-does-not-go-as-planned-13256979",
-"urlToImage": "https://e3.365dm.com/24/11/1600x900/skynews-donald-trump-spacex_6752444.jpg?20241119225441",
-"publishedAt": "2024-11-19T22:32:00Z",
-"content": "Elon Musk's SpaceX has successfully performed another launch of its Starship rocket in front of President-elect Donald Trump, but the test flight did not go perfectly.\r\nThe 400ft (122m) high rocket s… [+2712 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "[Removed]"
-},
-"author": null,
-"title": "[Removed]",
-"description": "[Removed]",
-"url": "https://removed.com",
-"urlToImage": null,
-"publishedAt": "2024-11-19T22:30:51Z",
-"content": "[Removed]"
-},
-{
-"source": {
-"id": null,
-"name": "Xataka.com"
-},
-"author": "Fran León",
-"title": "Dónde comprar más baratos los ganadores de los Premios Xataka NordVPN 2024",
-"description": "Se acaban de entregar los Premios Xataka NordVPN 2024 en los Cines Capitol de Madrid. Como cada año, nuestros lectores han elegido a los finalistas y el ganador de cada categoría, ha sido seleccionado con de los votos de los “xatakeros” más el del jurado (com…",
-"url": "https://www.xataka.com/seleccion/donde-comprar-baratos-ganadores-premios-xataka-nordvpn-2024",
-"urlToImage": "https://i.blogs.es/c4380e/ofertas_cpa_v3-copia---2024-11-19t113238.998/840_560.jpeg",
-"publishedAt": "2024-11-19T22:30:25Z",
-"content": "Se acaban de entregar los Premios Xataka NordVPN 2024 en los Cines Capitol de Madrid. Como cada año, nuestros lectores han elegido a los finalistas y el ganador de cada categoría, ha sido seleccionad… [+9845 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Biztoc.com"
-},
-"author": "newsweek.com",
-"title": "Elon Musk Wants to Meet Alex Soros",
-"description": "Tesla and SpaceX CEO Elon Musk has expressed interest in meeting Alex Soros, the philanthropist and son of progressive billionaire financier George Soros, following a series of exchanges on X, formerly Twitter, which Musk owns.\nThe proposal followed Soros' co…",
-"url": "https://biztoc.com/x/4ea949a969331f7c",
-"urlToImage": "https://biztoc.com/cdn/4ea949a969331f7c_s.webp",
-"publishedAt": "2024-11-19T22:29:04Z",
-"content": "Tesla and SpaceX CEO Elon Musk has expressed interest in meeting Alex Soros, the philanthropist and son of progressive billionaire financier George Soros, following a series of exchanges on X, former… [+142 chars]"
-},
-{
-"source": {
-"id": "newsweek",
-"name": "Newsweek"
-},
-"author": "Jesus Mesa",
-"title": "Elon Musk Wants to Meet Alex Soros",
-"description": "Tesla and SpaceX CEO expressed interest in meeting Soros, the son of progressive billionaire financier George Soros.",
-"url": "https://www.newsweek.com/elon-musk-wants-meet-alex-soros-1988575",
-"urlToImage": "https://d.newsweek.com/en/full/2525086/alex-soros-elon-musk.jpg",
-"publishedAt": "2024-11-19T22:24:25Z",
-"content": "Tesla and SpaceX CEO Elon Musk has expressed interest in meeting Alex Soros, the philanthropist and son of progressive billionaire financier George Soros, following a series of exchanges on X, former… [+3403 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Freerepublic.com"
-},
-"author": "Tribune PK",
-"title": "Elon Musk roasts Jaguar following bizarre relaunch commercial",
-"description": "Tesla CEO Elon Musk didn’t hold back after watching Jaguar’s hallucinogenic relaunch commercial. The ad, meant to mark a new chapter for the iconic British automaker, had many viewers wondering if Jaguar was selling cars or auditioning for a spot in a high-fa…",
-"url": "https://freerepublic.com/focus/f-news/4279515/posts",
-"urlToImage": null,
-"publishedAt": "2024-11-19T22:20:47Z",
-"content": "Skip to comments.\r\nElon Musk roasts Jaguar following bizarre relaunch commercialTribune PK ^\r\n | 11 19 2024\r\n | Staff\r\nPosted on 11/19/2024 2:20:47 PM PST by yesthatjallen\r\nTesla CEO Elon Musk didnt … [+1317 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "NDTV News"
-},
-"author": "Reuters",
-"title": "Elon Musk's 6th SpaceX Rocket Takes Off With Donald Trump In Attendance",
-"description": "Elon Musk&#039;s SpaceX launched its sixth Starship test flight to space on Tuesday from Texas, eyeing an array of improvements on the rocket as US President-elect Donald Trump watched in person.",
-"url": "https://www.ndtv.com/world-news/elon-musk-launches-6th-spacex-rocket-in-donald-trumps-presence-7059459",
-"urlToImage": "https://c.ndtvimg.com/2024-11/6tv3tea8_spacex-rocket-launch_625x300_20_November_24.jpeg",
-"publishedAt": "2024-11-19T22:14:40Z",
-"content": "Elon Musk's SpaceX launched its sixth Starship test flight to space on Tuesday from Texas, eyeing an array of improvements on the rocket as US President-elect Donald Trump watched in person.\r\nThe rou… [+3227 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "PBS"
-},
-"author": "Chris Megerian, Associated Press, Michelle L. Price, Associated Press",
-"title": "Trump and Musk deepen their bond with trip to Texas for Starship rocket launch",
-"description": "The billionaire has been helping shape the new administration and he's positioned in a way that could help his own companies, which have billions of dollars in federal contracts and routinely deal with government regulators.",
-"url": "https://www.pbs.org/newshour/politics/trump-and-musk-deepen-their-bond-with-trip-to-texas-for-starship-rocket-launch",
-"urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/11/2024-11-19T214810Z_391955910_RC2L8BA6TXW3_RTRMADP_3_USA-TRUMP-1024x683.jpg",
-"publishedAt": "2024-11-19T22:12:51Z",
-"content": "WASHINGTON (AP) Donald Trump arrived in Brownsville, Texas, on Tuesday to watch one of Elon Musk ‘s companies test its Starship rocket, the latest sign of a deepening bond between the president-elect… [+5185 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Overclockers.ru"
-},
-"author": "Zelikman",
-"title": "Tesla работает над новым семейным кроссовером",
-"description": "Автомобиль станет самым крупным среди всех имеющихся моделей компании",
-"url": "https://overclockers.ru/blog/Zelikman/show/192108/Tesla-rabotaet-nad-novym-semejnym-krossoverom",
-"urlToImage": "https://overclockers.ru/st/legacy/blog/413830/588488_O.jpg",
-"publishedAt": "2024-11-19T22:12:47Z",
-"content": ", Tesla , . Teslarati , , , , Model X.\r\n  Tesla X. , , , , - . , , .\r\n  , , Robovan, Cybercab. , , Tesla .\r\n  Tesla . Reuters, , , 5%. , .\r\n  Tesla Cybercab , , 2,5 . , ."
-},
-{
-"source": {
-"id": "ign",
-"name": "IGN"
-},
-"author": "Gabriel Sales",
-"title": "“Ele não sabe de nada, ficou calado\": o maior fabricante de baterias do mundo explica por que a ideia de Elon Musk fracassará",
-"description": "Ele acredita que seu conhecimento limitado sobre baterias afetará a confiabilidade do Cybertruck.",
-"url": "https://br.ign.com/tech/132522/news/ele-nao-sabe-de-nada-ficou-calado-o-maior-fabricante-de-baterias-do-mundo-explica-por-que-a-ideia-de",
-"urlToImage": "https://sm.ign.com/t/ign_br/screenshot/default/elon-musk_9wgk.1200.jpg",
-"publishedAt": "2024-11-19T22:08:26Z",
-"content": "Poucas pessoas são tão conhecidas no mundo tecnológico quanto Elon Musk, o chefe visível de projetos como Tesla, SpaceX e a rede social X (antigo Twitter). Musk conseguiu se tornar um artíficespor tr… [+1960 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Electrek"
-},
-"author": "Fred Lambert",
-"title": "Tesla turns to its ‘Tesla Electric’ utility service to help sell cars",
-"description": "Tesla is now using ‘Tesla Electric’, its electric utility service in Texas, to help sell cars with a new incentive.\n\n\n\n more…",
-"url": "http://electrek.co/2024/11/19/tesla-turns-to-its-tesla-electric-utility-service-to-help-sell-cars/",
-"urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/12/Tesla-Electric.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-"publishedAt": "2024-11-19T22:05:40Z",
-"content": "Tesla is now using ‘Tesla Electric’, its electric utility service in Texas, to help sell cars with a new incentive.\r\nAfter gaining experience through its virtual power plants (VPPs), Tesla took thing… [+3486 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "BFMTV"
-},
-"author": "A.g",
-"title": "Emmanuel Macron invite Donald Trump et Elon Musk en France pour un sommet sur l'IA prévu en février 2025",
-"description": "Le président de la République affirme ce mardi 19 novembre qu'il a invité \"la Chine, les États-Unis et les grands pays qui sont impliqués\" au sommet sur l'intelligence artificielle prévu en février 2025 en France.",
-"url": "https://www.bfmtv.com/tech/intelligence-artificielle/emmanuel-macron-invite-donald-trump-et-elon-musk-en-france-pour-un-sommet-sur-l-ia-prevu-en-fevrier-2025_AD-202411191030.html",
-"urlToImage": "https://images.bfmtv.com/v0ibvUmXSbWKqNosGp6Mtmos1fU=/0x105:2048x1257/2048x0/images/Emmanuel-Macron-s-exprime-lors-d-une-conference-de-presse-a-l-aeroport-international-Galeao-de-Rio-de-Janeiro-au-Bresil-le-19-novembre-2024-1980311.jpg",
-"publishedAt": "2024-11-19T22:02:41Z",
-"content": "Le président de la République affirme ce mardi 19 novembre qu'il a invité \"la Chine, les États-Unis et les grands pays qui sont impliqués\" au sommet sur l'intelligence artificielle prévu en février 2… [+1026 chars]"
-},
-{
-"source": {
-"id": null,
-"name": "Bankier.pl"
-},
-"author": "Redaktor Bankier.pl",
-"title": "Przewaga wzrostów indeksów na Wall Street. Wzrosty spółek technologicznych",
-"description": "Indeksy na Wall Street głównie zwyżkowały we wtorek, w górę poszły zwłaszcza spółki technologiczne. Analitycy wskazują, że inwestorzy są pozytywnie nastawieni do perspektyw dla rynku akcji, a wzrost napięcia geopolitycznego nie wpłynął negatywnie na nastroje.",
-"url": "https://www.bankier.pl/wiadomosc/Przewaga-wzrostow-indeksow-na-Wall-Street-Wzrosty-spolek-technologicznych-8847956.html",
-"urlToImage": "https://galeria.bankier.pl/p/9/8/69fd111667a914-948-568-0-14-3000-1799.jpg",
-"publishedAt": "2024-11-19T22:01:00Z",
-"content": "Indeksy na Wall Street gównie zwykoway we wtorek, w gór poszy zwaszcza spóki technologiczne. Analitycy wskazuj, e inwestorzy s pozytywnie nastawieni do perspektyw dla rynku akcji, a wzrost napicia ge… [+3231 chars]"
-}
-]
+  "status": "ok",
+  "totalResults": 12463,
+  "articles": [
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": "Карина Черных",
+      "title": "Непристойные фото Ким Кардашьян с роботом Tesla смутили фанатов",
+      "description": "Американская телезвезда Ким Кардашьян поделилась непристойными фото с роботом Tesla и смутила фанатов. Соответствующие публикация и комментарии появились на ее странице в Instagram (запрещенная в России соцсеть; принадлежит компании Meta, признанной экстремис…",
+      "url": "https://lenta.ru/news/2024/11/20/nepristoynye-foto-kim-kardashyan-s-robotom-tesla-smutili-fanatov/",
+      "urlToImage": "https://icdn.lenta.ru/images/2024/11/20/10/20241120103136966/share_22337f35e87c8a2d2b551ac429ad4c2f.jpeg",
+      "publishedAt": "2024-11-20T07:44:00Z",
+      "content": "Tesla . Instagram ( ; Meta,  ).\r\n 44- Tesla Cybertruck, . , . , .\r\n , . «- », « », «, - , », « », « », .\r\n , Tesla ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizchina.gr"
+      },
+      "author": "Κυν. Αίγειρος",
+      "title": "Nubia Z70 Ultra: επίδειξη ισχύος στο Geekbench με το Snapdragon 8 Elite",
+      "description": "Λίγο πριν από την επίσημη αποκάλυψή του, το Nubia Z70 Ultra εμφανίστηκε στο Geekbench, διαμορφώνοντας μερικές εντυπωσιακές βαθμολογίες. Το τηλέφωνο, το οποίο θα ενταχθεί στις ...\nThe post Nubia Z70 Ultra: επίδειξη ισχύος στο Geekbench με το Snapdragon 8 Elite…",
+      "url": "https://www.gizchina.gr/2024/11/20/nubia-z70-ultra-epideixi-ischyos/",
+      "urlToImage": "https://www.gizchina.gr/wp-content/uploads/2024/11/Nubia-Z70-1.jpg",
+      "publishedAt": "2024-11-20T07:42:59Z",
+      "content": ", Nubia Z70 Ultra Geekbench, . , Snapdragon 8 Elite, . Geekbench, “NX736J”, Z70 Ultra 3203 10260 . 16 GB RAM Android 15 .  Nubia Z70 Ultra . , Snapdragon 8 Elite « ». , LPDDR5X RAM UFS 4.0.\r\nZ70 Ultr… [+309 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "wsj.com",
+    "title": "STMicroelectronics Sees Slowing Sales Growth Amid Chip Market Woes",
+    "description": "The Tesla supplier expects more than $20 billion in sales by the end of the decade, delaying a target it hoped to hit much earlier.",
+    "url": "https://biztoc.com/x/aff0754c596f7bcb",
+    "urlToImage": "https://biztoc.com/cdn/807/og.png",
+    "publishedAt": "2024-11-20T07:41:35Z",
+    "content": "The Tesla supplier expects more than $20 billion in sales by the end of the decade, delaying a target it hoped to hit much earlier.\r\nThis story appeared on wsj.com, 2024-11-20 07:32:00."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Feber.se"
+    },
+    "author": "Hugo Engström",
+    "title": "Sony flaggskeppskamera blir ännu bättre",
+    "description": "Släpper Alpha 1 II\n\n\n\n\n\n\nSony har lanserat Alpha 1 II, den andra generationen av sin flaggskeppskamera Alpha 1, med samma 50,1 MP fullformatssensor som originalet men med en ny AI-processor för förbättrad autofokus som identifierar fler motiv, inklusive djur,…",
+    "url": "https://feber.se/pryl/sony-flaggskeppskamera-blir-annu-battre/474127/",
+    "urlToImage": "https://static.feber.se/article_images/60/50/20/605020.jpg",
+    "publishedAt": "2024-11-20T07:40:00Z",
+    "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+34568 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Portfolio.hu"
+    },
+    "author": "Portfolio.hu",
+    "title": "Meglepő tanulmány érkezett: veszélyes autó a Tesla?",
+    "description": "Az Egyesült Államokban végzett új autóipari tanulmány meglepő eredményt hozott: a Tesla járműveinél a legmagasabb a halálos kimenetelű balesetek aránya. A kutatás szerint azonban ez nem feltétlenül jelenti azt, hogy a Tesla autói nem biztonságosak - írta a Ex…",
+    "url": "https://www.portfolio.hu/gazdasag/20241120/meglepo-tanulmany-erkezett-veszelyes-auto-a-tesla-724286",
+    "urlToImage": "https://pcdn.hu/articles/images-lg/v/i/d/videon-ahogy-felrobbant-egy-tesla-azonnali-vizsgalatot-inditottak-311489.jpg",
+    "publishedAt": "2024-11-20T07:37:00Z",
+    "content": "Az iSeeCars által készített átfogó elemzés az amerikai halálesetek 2017 és 2022 közötti adatait vizsgálta. A kutatás eredményei szerint a Tesla jármveiben a halálos balesetek aránya 5,6 eset milliárd… [+1307 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Securityaffairs.com"
+    },
+    "author": "Pierluigi Paganini",
+    "title": "Unsecured JupyterLab and Jupyter Notebooks servers abused for illegal streaming of Sports events",
+    "description": "Threat actors exploit misconfigured JupyterLab and Jupyter Notebooks servers to rip sports streams and illegally redistribute them. Researchers from security firm Aqua observed threat actors exploiting misconfigured JupyterLab and Jupyter Notebook servers to …",
+    "url": "https://securityaffairs.com/171193/cyber-crime/misconfigured-jupyterlab-and-jupyter-notebooks-illegal-live-sports-streaming.html",
+    "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/11/image-23.png",
+    "publishedAt": "2024-11-20T07:32:57Z",
+    "content": "Unsecured JupyterLab and Jupyter Notebooks servers abused for illegal streaming of Sports events\r\n | Russian Phobos ransomware operator faces cybercrime charges\r\n | Great Plains Regional Medical Cent… [+117561 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elperiodico.com"
+    },
+    "author": "Mariona Artigas",
+    "title": "Kim Kardashian tiene un nuevo amigo especial: cuesta más de 20 mil dólares",
+    "description": "Kim Kardashian ha adquirido un nuevo producto Tesla. La empresaria multimillonaria tiene un especial interés por los artículos de la marca de Elon Musk y siempre es la primera en conseguir muchos de ellos, incluso antes de que salgan a la venta.Seguir leyendo…",
+    "url": "https://www.elperiodico.com/es/gente/20241120/kim-kardashian-optimus-bot-tesla-elon-musk-ia-video-dv-111825057",
+    "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/ae38f735-3313-4ae9-ae30-529d05aa6f34_16-9-discover-aspect-ratio_default_0.jpg",
+    "publishedAt": "2024-11-20T07:32:40Z",
+    "content": "Kim Kardashian ha adquirido un nuevo producto Tesla. La empresaria multimillonaria tiene un especial interés por los artículosde la marca de Elon Musk y siempre es la primera en conseguir muchos de e… [+1644 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hibridosyelectricos.com"
+    },
+    "author": "Javier Gómara",
+    "title": "Tras retirar su primer coche de combustión por ser muy malo, esta marca ya ha fabricado 10 millones de coches enchufables",
+    "description": "Hacía décadas que la industria del automóvil no veía algo así. Desde la época dorada del motor, allá por los albores del siglo XX, el sector no vislumbraba cifras de producción como las que ahora vemos en China. El país se ha transformado en la mayor de las s…",
+    "url": "https://www.hibridosyelectricos.com/coches/retirar-su-primer-coche-combustion-por-ser-muy-malo-esta-marca-ya-ha-fabricado-10-millones-coches-enchufables_77015_102.html",
+    "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/86/23/37/byd-10-millones_17_2000x1126.jpeg",
+    "publishedAt": "2024-11-20T07:30:00Z",
+    "content": "Hacía décadas que la industria del automóvil no veía algo así. Desde la época dorada del motor, allá por los albores del siglo XX, el sector no vislumbraba cifras de producción como las que ahora vem… [+3476 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Standaard.be"
+    },
+    "author": "blg rvs",
+    "title": "SpaceX voert opnieuw testvlucht uit met Starship, Trump kijkt toe",
+    "description": "Het SpaceX van Elon Musk heeft dinsdag in Texas een zesde testvlucht uitgevoerd met Starship. Daarbij kon de draagraket van het ruimtevaartuig niet gerecupereerd worden. Toekomstig president Donald Trump was een opvallende aanwezige bij de lancering.",
+    "url": "https://www.standaard.be/cnt/dmf20241120_92681612",
+    "urlToImage": "https://static.standaard.be/Assets/Images_Upload/2024/11/20/0229e884-10ef-441d-8600-d6c3aecd42b6.jpg?maxheight=416&maxwidth=568",
+    "publishedAt": "2024-11-20T07:23:06Z",
+    "content": "Het SpaceX van Elon Musk heeft dinsdag in Texas een zesde testvlucht uitgevoerd met Starship. Daarbij kon de draagraket van het ruimtevaartuig niet gerecupereerd worden. Toekomstig president Donald T… [+2748 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Feber.se"
+    },
+    "author": "Wille Wilhelmsson",
+    "title": "Nu går det att streama spel från molnet till PlayStation Portal",
+    "description": "Uppdatering till Sonys handhållna spelkonsol\n\n\n\n\n\n\nSony har släppt en uppdatering till sin handhållna spelkonsol PlayStation Portal som gjort denna lite intressantare än vad den varit tidigare. Fram tills nu har det bara varit möjligt att streama spel via WiF…",
+    "url": "https://feber.se/spel/nu-gar-det-att-streama-spel-fran-molnet-till-playstation-portal/474126/",
+    "urlToImage": "https://static.feber.se/article_images/60/50/16/605016.jpg",
+    "publishedAt": "2024-11-20T07:20:00Z",
+    "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+35280 chars]"
+    },
+    {
+    "source": {
+    "id": "focus",
+    "name": "Focus"
+    },
+    "author": "dpa-AFX",
+    "title": "Vermögensverwalter - DWS auch für 2025 optimistisch bei US-Aktien - Erholung in Europa erwartet",
+    "description": "Die DWS erwartet weiterhin starke Erträge durch Trumps Deregulierungen in den USA, erkennt aber auch Risiken. Für Europa sieht der Vermögensverwalter 2025 gar nicht mal so schwarz.",
+    "url": "https://www.focus.de/finanzen/boerse/vermoegensverwalter-dws-auch-fuer-2025-optimistisch-bei-us-aktien-erholung-in-europa-erwartet_id_260494133.html",
+    "urlToImage": "https://p6.focus.de/img/fotos/id_260494116/boerse.jpg?im=Crop%3D%280%2C320%2C3410%2C1705%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=46493b3ae46d4fcbe5ba213663f12addca04aad3de68f99a1f0a88aad52b0757",
+    "publishedAt": "2024-11-20T07:13:25Z",
+    "content": "Die DWS erwartet weiterhin starke Erträge durch Trumps Deregulierungen in den USA, erkennt aber auch Risiken. Für Europa sieht der Vermögensverwalter 2025 gar nicht mal so schwarz.Die Vermögensverwal… [+3134 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DW (English)"
+    },
+    "author": "Timothy Rooks",
+    "title": "Elon Musk and conflicts of interest in Trump administration",
+    "description": "Putting Elon Musk in charge of the new US Department of Government Efficiency is problematic. Can the richest man on Earth avoid conflicts of interest while heading the charge to cut government spending?",
+    "url": "https://www.dw.com/en/elon-musk-and-conflicts-of-interest-in-trump-administration/a-70809011",
+    "urlToImage": "https://static.dw.com/image/70753970_6.jpg",
+    "publishedAt": "2024-11-20T07:01:00Z",
+    "content": "A lot has been written about the budding friendship between President-elect Donald Trump and the world's richest man, Elon Musk.\r\nWhat seemed like a strange pairing has turned into a job opportunity … [+6153 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DW (English)"
+    },
+    "author": "Timothy Rooks",
+    "title": "Elon Musk risks conflict of interest in Trump administration",
+    "description": "Putting Elon Musk in charge of the new US Department of Government Efficiency is problematic. Can the richest man on Earth avoid conflicts of interest while heading the charge to cut government spending?",
+    "url": "https://www.dw.com/en/elon-musk-risks-conflict-of-interest-in-trump-administration/a-70809011",
+    "urlToImage": "https://static.dw.com/image/70753970_6.jpg",
+    "publishedAt": "2024-11-20T07:01:00Z",
+    "content": "A lot has been written about the budding friendship between President-elect Donald Trump and the world's richest man, Elon Musk.\r\nWhat seemed like a strange pairing has turned into a job opportunity … [+6162 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Feber.se"
+    },
+    "author": "Hugo Engström",
+    "title": "Nu kan utvecklare testa nästa Android",
+    "description": "Google släpper första versionen av Android 16\n\n\n\n\n\n\nNu, bara en månad efter att Google uppdaterade Pixel-telefonerna till Android 15, har den första förhandsversionen av Android 16 släppts, mycket tidigare än vanligt. Denna första version är dock endast till …",
+    "url": "https://feber.se/mobil/nu-kan-utvecklare-testa-nasta-android/474123/",
+    "urlToImage": "https://static.feber.se/article_images/60/50/15/605015.jpg",
+    "publishedAt": "2024-11-20T07:00:00Z",
+    "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+35012 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hibridosyelectricos.com"
+    },
+    "author": "Gonzalo García",
+    "title": "Elon Musk recibe la segunda recompensa por apoyar a Donald Trump: Tesla tendrá vía libre para sus coches eléctricos y autónomos",
+    "description": "Elon Musk, CEO de Tesla, y también de empresas como Hyperloop o SpaceX, ha sido un partidario de Donald Trump, ahora reelegido para la Casa Blanca, desde su primera presidencia. Esta idea, que hace años podría parecer surrealista dada la pasada animadversión …",
+    "url": "https://www.hibridosyelectricos.com/coches/elon-musk-recibe-segunda-recompensa-por-apoyar-donald-trump-tesla-tendra-via-libre-sus-coches-electricos-autonomos_77044_102.html",
+    "urlToImage": "https://www.hibridosyelectricos.com/uploads/s1/86/40/11/elon-musk-donald-trump-conduccion-autonoma-1_17_2000x1126.jpeg",
+    "publishedAt": "2024-11-20T07:00:00Z",
+    "content": "Elon Musk, CEO de Tesla, y también de empresas como Hyperloop o SpaceX, ha sido un partidario de Donald Trump, ahora reelegido para la Casa Blanca, desde su primera presidencia. Esta idea, que hace a… [+4857 chars]"
+    },
+    {
+    "source": {
+    "id": "der-tagesspiegel",
+    "name": "Der Tagesspiegel"
+    },
+    "author": "Der Tagesspiegel",
+    "title": "Weniger Anreize für E-Autos: Trump plant wohl Rücknahme von Bidens Umweltauflagen für Autoindustrie",
+    "description": "Im Wahlkampf sprach Donald Trump schon davon, das „EV-Mandat“ beenden zu wollen. Einem Insider zufolge macht der designierte US-Präsident Ernst. Elon Musk dürfte das nicht gefallen.",
+    "url": "https://www.tagesspiegel.de/internationales/weniger-anreize-fur-e-autos-trump-plant-wohl-rucknahme-von-bidens-umweltauflagen-fur-autoindustrie-12736574.html",
+    "urlToImage": "https://www.tagesspiegel.de/images/12736628/alternates/BASE_16_9_W1400/1732085772000/donald-trump-watches-spacex-launch-its-sixth-test-flight-of-starship-spacecraft.jpeg",
+    "publishedAt": "2024-11-20T06:56:32Z",
+    "content": "Die künftige US-Regierung unter Donald Trump will Insidern zufolge zentrale Klimaschutzmaßnahmen von Präsident Joe Biden im Automobilsektor kippen. Die von Biden eingeführten strengeren Effizienzstan… [+2059 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Reuters",
+    "title": "In high-wage Germany, Volkswagen's labour costs outstrip the competition",
+    "description": "Volkswagen faces pressure to reduce labor costs in Germany as they exceed those of rivals like BMW and Mercedes-Benz. While unions demand a 7% pay rise, the company, grappling with high production costs and competition from cheaper Chinese models, proposes a …",
+    "url": "https://economictimes.indiatimes.com/news/international/business/in-high-wage-germany-volkswagens-labour-costs-outstrip-the-competition/articleshow/115475723.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-115475757,width-1200,height-630,imgsize-84174,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2024-11-20T06:50:41Z",
+    "content": "As Volkswagen and unions gear up for the next round of talks over wages and plant closures in Germany, company and industry data reviewed by Reuters show that the automaker spends a higher proportion… [+4762 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Mail.ru"
+    },
+    "author": "Motor.ru",
+    "title": "Игрушечную фигурку робота Tesla раскупили менее чем за сутки",
+    "description": "Мерч Tesla разбирают с огромной скоростью",
+    "url": "https://auto.mail.ru/article/98520-igrushechnuyu-figurku-robota-tesla-raskupili-menee-chem-za-sutki/",
+    "urlToImage": "https://resizer.mail.ru/p/518e0d90-cf10-5c17-8f98-636114c99a94/AQABaTFK3DiGN9hfWTUKQh8RsYZD_QRs3gBxrkJBN-LGQFWxTxyZQHhQkzcg_57oSR0ypXzzm6I07grN-hfyrwDIb9U.png",
+    "publishedAt": "2024-11-20T06:50:00Z",
+    "content": "Tesla 40 .       Optimus   1:10. Tesla Bot Action Figure    ,   , — .   ,   ,         .\r\n  Tesla Bot Action Figure « -   ».     1:10      40  20 , «   », Tesla.\r\n .   ,    eBay,  130  1300 (12,9−130 … [+94 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Feber.se"
+    },
+    "author": "Wille Wilhelmsson",
+    "title": "Starships sjätte flygning blev ganska lyckad",
+    "description": "Trots att allt inte gick som SpaceX planerat\n\n\n\n\n\n\n\n\n\n\nIgår kväll svensk tid genomförde SpaceX ett sjätte test med Starship, farkosten som förhoppningsvis ska landa astronauter på månen i framtiden. \n\nTestet gick inte helt som SpaceX hade planerat. Startraket…",
+    "url": "https://feber.se/vetenskap/starships-sjatte-flygning-blev-ganska-lyckad/474124/",
+    "urlToImage": "https://i.ytimg.com/vi/lwAScEQ753M/hqdefault.jpg",
+    "publishedAt": "2024-11-20T06:40:00Z",
+    "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+36179 chars]"
+    },
+    {
+    "source": {
+    "id": "t3n",
+    "name": "T3n"
+    },
+    "author": "Nils Bolder",
+    "title": "Interne E-Mails zeigen: OpenAI hatte Angst, dass Elon Musk Macht über KI bekommt",
+    "description": "Im Fall Musk gegen Altman sind nun interne E-Mails ans Licht gekommen. Diese enthüllen, dass OpenAI schon 2017 Angst vor Elon Musks Hunger nach Macht hatte.\nweiterlesen auf t3n.de",
+    "url": "https://t3n.de/news/interne-e-mails-zeigen-openai-hatte-angst-dass-elon-musk-macht-ueber-ki-bekommt-1658780/",
+    "urlToImage": "https://t3n.de/news/wp-content/uploads/2024/11/453350416.jpg",
+    "publishedAt": "2024-11-20T06:39:32Z",
+    "content": "Die derzeitige Struktur bietet dir einen Weg, auf dem du am Ende einseitig die absolute Kontrolle über die AGI hast, warf OpenAI-Mitgründer Ilya Sutskever 2017 seinem damaligen Kollegen Elon Musk vor… [+2654 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Andreas Donath",
+    "title": "Ladeinfrastruktur: Tesla-Supercharger mit 500 kW kommen 2025",
+    "description": "Tesla will ab dem kommenden Jahr V4-Supercharger in Betrieb nehmen, die Ladegeschwindigkeiten von bis zu 500 kW bieten. (Tesla, Elektroauto)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fladeinfrastruktur-tesla-supercharger-mit-500-kw-kommen-2025-2411-190943.html&referer=https%3A%2F%2Ft.co%2F722f7b3200",
+    "urlToImage": null,
+    "publishedAt": "2024-11-20T06:32:02Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+    "source": {
+    "id": "bild",
+    "name": "Bild"
+    },
+    "author": null,
+    "title": "Spielzeug für Mega-Star - Neuer „Freund“ für Kim Kardashian",
+    "description": "Kim Kardashian stellt Elon Musks Optimus-Roboter vor und interagiert spielerisch mit dem Tesla-Produkt.",
+    "url": "https://www.bild.de/news/ausland/kim-kardashian-hat-ein-neues-spielzeug-neuer-freund-fuer-mega-star-673cba1aa698fc73a9efa657",
+    "urlToImage": "https://images.bild.de/673cba1aa698fc73a9efa657/885c9882ba47be7c47da4b68762706cf,6af6b19d?w=1280",
+    "publishedAt": "2024-11-20T06:30:29Z",
+    "content": "Mehr zum Video anzeigen \r\nKim Kardashian stellt Elon Musks Optimus-Roboter vor und interagiert spielerisch mit ihm. Der Tesla-Roboter soll ab 2026 für langweilige und unsichere Aufgaben eingesetzt we… [+61 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphones.ru"
+    },
+    "author": "Илья Сидоров",
+    "title": "Ким Кардашьян первой в мире получила на тест роботов Tesla Optimus и беспилотное такси Tesla Cybercab",
+    "description": "Ким Кардашьян опубликовала в X несколько фото и видео с роботом Tesla Optimus и беспилотным такси Cybercab. Похоже, она стала первым человеком в мире, получившим предсерийные образцы этих продуктов. Cybercab был представлен в октябре 2024 года, а его выпуск з…",
+    "url": "https://www.iphones.ru/iNotes/kim-kardashyan-pervoy-v-mire-poluchila-na-test-robotov-tesla-optimus-i-bespilotnoe-taksi-tesla-cybercab",
+    "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2024%2F11%2FGczi8oqbcAAazFh.jpeg",
+    "publishedAt": "2024-11-20T06:29:08Z",
+    "content": "X Tesla Optimus Cybercab.\r\n, , . Cybercab 2024 , 2027 .\r\n , Optimus . \r\n , , Cybercab. , «» «» .\r\n , . [TechCrunch]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "Алексей Сычёв",
+    "title": "Samsung и SK hynix разрабатывают вариант памяти HBM4 для нужд Tesla",
+    "description": "У корейских производителей памяти есть и другие заказчики на продукцию этого типа.",
+    "url": "https://overclockers.ru/hardnews/show/137863/samsung-i-sk-hynix-razrabatyvajut-variant-pamyati-hbm4-dlya-nuzhd-tesla",
+    "urlToImage": "https://overclockers.ru/st/images/preview/tXqRhLCUZYA4KEPN.jpg",
+    "publishedAt": "2024-11-20T06:29:00Z",
+    "content": "Korean Economic Daily, Tesla Samsung SK hynix HBM4, . HBM4, .\r\n Tesla HBM4, Google, Meta Platforms Microsoft. NVIDIA, , . HBM4 Tesla D1. , Tesla, .\r\n , HBM4 1,4 , HBM3E 30% . Samsung HBM4 Tesla , SK … [+24 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Feber.se"
+    },
+    "author": "Bobby Green",
+    "title": "Nu kan du beställa uppdaterade Kia EV6",
+    "description": "Kostar från 595.400 kronor\n\n\n\n\n\n\n\n\n\n\n\n\nKias design mellan modellerna har spretat lite de senaste åren men nu börjar de stöpa alla som erbjuds i typ samma form. I maj visade man upp en uppdatering av elbilen EV6 som fått nytt ansikte för att matcha sina syskon…",
+    "url": "https://feber.se/bil/nu-kan-du-bestalla-uppdaterade-kia-ev6/474121/",
+    "urlToImage": "https://static.feber.se/article_images/60/50/10/605010.jpg",
+    "publishedAt": "2024-11-20T06:20:00Z",
+    "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+35791 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Victoria Waldersee and Christoph Steitz",
+    "title": "Exclusive-In high-wage Germany, VW's labour costs outstrip the competition",
+    "description": "As Volkswagen and unions gear up for the next round of talks over wages and plant closures in Germany, company and industry data reviewed by Reuters show...",
+    "url": "https://finance.yahoo.com/news/exclusive-high-wage-germany-vws-060754261.html",
+    "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/af3e484f10b75e0752d2b2ccc084575d",
+    "publishedAt": "2024-11-20T06:07:54Z",
+    "content": "Volkswagen's labour costs in Germany are higher than its major rivals, with the company spending 15.4% of its revenue on labour costs globally, compared to 9.5-11% for BMW, Mercedes-Benz, and Stellan… [+5684 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hola"
+    },
+    "author": "Ana Merodio",
+    "title": "La familia real más rica del mundo: su fortuna eclipsa a la de Elon Musk y Jeff Bezos juntos",
+    "description": "Se trata de la Casa de Saud, también conocida como Al Saud,  la dinastía de la familia real de Arabia Saudí",
+    "url": "https://www.hola.com/actualidad/20241119730945/la-familia-real-mas-rica-del-mundo-una-fortuna-que-eclipsa-a-elon-musk-y-bill-gates-juntos/",
+    "urlToImage": "https://www.hola.com/horizon/landscape/c7d7fa41f10d-gettyimages-473199638.jpg?im=Resize=(1200)",
+    "publishedAt": "2024-11-20T06:03:00Z",
+    "content": "Cuando se habla de riqueza, opulencia y lujo, ningún otro nombre se compara con el de la Casa de Saud, la dinastía gobernante de Arabia Saudita. Su patrimonio, estimado en unos 1.324 billones de euro… [+4675 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ambcrypto.com"
+    },
+    "author": "Akashnath S",
+    "title": "POWSCHE up 740% in a week, but how far will memecoin mania take it now?",
+    "description": "The next few weeks are likely to be spectacularly bullish for POWSCHE.",
+    "url": "https://ambcrypto.com/powsche-up-740-in-a-week-but-how-far-will-memecoin-mania-take-it-now/",
+    "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/11/POWSCHE-featured.webp",
+    "publishedAt": "2024-11-20T06:00:03Z",
+    "content": "<ul><li>At the time of writing, POWSCHE had a bullish outlook</li><li>Social media hype and engagement will be critical for sustained gains and demand</li></ul>POWSCHE saw a 740% rally from 11 Novemb… [+1697 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Feber.se"
+    },
+    "author": "Wille Wilhelmsson",
+    "title": "Första trailern till A Minecraft Movie släppt",
+    "description": "Har premiär i april\n\n\n\n\n\n\n\n\n\n\nNästa år är det dags för premiär för Minecraft-filmen A Minecraft Movie och här kommer en första trailer för filmen. \n\nI filmen får vi se Jack Black spela rollen som Steve som tillsammans med sina vänner måste rädda Overworld frå…",
+    "url": "https://feber.se/film/forsta-trailern-till-a-minecraft-movie-slappt/474119/",
+    "urlToImage": "https://i.ytimg.com/vi/wJO_vIDZn-I/hqdefault.jpg",
+    "publishedAt": "2024-11-20T06:00:00Z",
+    "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+35128 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Naturalnews.com"
+    },
+    "author": "Ava Grace",
+    "title": "Tesla recalls over 2,400 Cybertrucks due to faulty parts that could increase risk of crashing",
+    "description": "Tesla has announced that it is recalling more than 2,400 of its Cybertruck electric pickup trucks in the United States due to faulty parts that could lead to a loss of power and an increased risk of a crash. A fault in the driver inverter in Cybertrucks manuf…",
+    "url": "https://www.naturalnews.com/2024-11-20-tesla-recalls-cybertrucks-due-to-faulty-parts.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/11/tesla-cybertruck.png",
+    "publishedAt": "2024-11-20T06:00:00Z",
+    "content": "Tesla has announced that it is recalling more than 2,400 of its Cybertruck electric pickup trucks in the United States due to faulty parts that could lead to a loss of power and an increased risk of … [+3563 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Naturalnews.com"
+    },
+    "author": "Ethan Huff",
+    "title": "Susie Wiles, Trump’s pick for chief of staff, ran P.R. campaigns for GAVI, the Vaccine Alliance, Gilead, Pfizer, and long list of globalist companies",
+    "description": "The first-ever woman appointed for the position, Susie Wiles is slated to become President-elect Donald Trump’s chief of staff come January – though there are some things you should know about this career globalist. Wiles is currently a co-chair at Mercury Pu…",
+    "url": "https://www.naturalnews.com/2024-11-20-susie-wiles-trump-chief-staff-career-globalist.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2024/11/Susie-Wiles-Donald-Trump.jpg",
+    "publishedAt": "2024-11-20T06:00:00Z",
+    "content": "The first-ever woman appointed for the position, Susie Wiles is slated to become President-elect Donald Trump's chief of staff come January though there are some things you should know about this car… [+3764 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Caradisiac.com"
+    },
+    "author": "Manuel Cailliot",
+    "title": "Stellantis annonce une autonomie record de 800 km en électrique avec sa nouvelle plateforme \"STLA Frame\"",
+    "description": "Cela concerne essentiellement les marques Jeep, et RAM. La toute dernière plateforme de Stellantis \"STLA Frame\", avec la possibilité d'intégrer un accumulateur entre 159 et 200 kWh, pourra permettre à certains modèles, malgré une grosse consommation, d'affich…",
+    "url": "https://www.caradisiac.com/stellantis-annonce-une-autonomie-record-de-800-km-en-electrique-avec-sa-nouvelle-plateforme-stla-frame-212382.htm",
+    "urlToImage": "https://images.caradisiac.com/logos/5/8/2/5/285825/S9-stellantis-annonce-une-autonomie-record-de-800-km-en-electrique-avec-sa-nouvelle-plateforme-stla-frame-212382.jpg",
+    "publishedAt": "2024-11-20T06:00:00Z",
+    "content": "On parle beaucoup plus de Stellantis, dernièrement, et à raison, pour ses soucis de baisse de rentabilité, de ventes en bernes, et de fiabilité de ses modèles (PureTech, BlueHDI, airbags Takata, etc.… [+5379 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Substack.com"
+    },
+    "author": "hormiga",
+    "title": "X Out - by John Paul Brammer - ¡Hola Papi!",
+    "description": "A salty, cranky case for letting Twitter die",
+    "url": "https://holapapi.substack.com/p/x-out",
+    "urlToImage": "https://images.unsplash.com/photo-1690981897603-d799d39c3e00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHx0d2l0dGVyJTIweHxlbnwwfHx8fDE3MzE5Mzk1OTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+    "publishedAt": "2024-11-20T05:47:01Z",
+    "content": "Your paid support makes creative endeavors like these possible. Thank you.\r\nLet me tell you a story about the killing of a bird. Its as much a tragedy as it is a comedy. \r\nTwitter has been seeing a s… [+17214 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news-au",
+    "name": "ABC News (AU)"
+    },
+    "author": "Esther Linder",
+    "title": "Brazil's president is trying to get billionaires taxed fairly — here's where he has got to so far",
+    "description": "Billionaires could be forced to pay a minimum rate of tax on their wealth after a global grouping of nations agrees to effectively tax the ultra-rich.",
+    "url": "https://www.abc.net.au/news/2024-11-20/g20-global-tax-on-billionaires-lula-wealth/104624714",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1210e6c7b7700b3b243a950fe9574136?impolicy=wcms_watermark_news&cropH=1692&cropW=3008&xPos=0&yPos=53&width=862&height=485&imformat=generic",
+    "publishedAt": "2024-11-20T05:46:47Z",
+    "content": "A landmark call for billionaires to be taxed at a minimum rate has been agreed to in principle at the G20 summit, as all countries present endorsed the measure.\r\nA report by economist Gabriel Zucman … [+2831 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Orf.at"
+    },
+    "author": "ORF.at",
+    "title": "Trump nominiert Linda McMahon als US-Bildungsministerin",
+    "description": null,
+    "url": "https://orf.at/stories/3376488/",
+    "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+    "publishedAt": "2024-11-20T05:36:14Z",
+    "content": "Die frühere Chefin von World Wrestling Entertainment, Linda McMahon, soll in der künftigen US-Regierung unter Donald Trump Bildungsministerin werden. McMahon sei eine leidenschaftliche Verfechterin d… [+3352 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Libremercado.com"
+    },
+    "author": "Diego Sánchez de la Cruz",
+    "title": "Vuelos supersónicos, coches autónomos… Las innovaciones que piden menos trabas a Trump y Musk",
+    "description": "El presidente electo encomienda al propietario de Tesla la desregulación. El I+D, expectante, también en campos como la salud o la energía.",
+    "url": "https://www.libremercado.com/2024-11-20/vuelos-supersonicos-coches-autonomos-las-innovaciones-que-piden-menos-trabas-a-trump-y-musk-7187617/",
+    "urlToImage": "https://s.libertaddigital.com/2024/11/18/1200/627/lm/avion-supersonico-boom-supersonic-overture-prototipo.png",
+    "publishedAt": "2024-11-20T05:32:45Z",
+    "content": "Waymo es una empresa filial del grupo Alphabet, propietaria de Google, dedicada a la producción de coches de conducción autónoma. Constituida en 2009, fue lanzada con el apoyo de diversos innovadores… [+6482 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "MoneyDJ",
+    "title": "特斯拉致力開發 AI 晶片，傳要三星、SK 海力士提供 HBM4 樣本",
+    "description": "韓媒傳出，特斯拉（Tesla Inc.）為了開發自有的 AI 晶片，已要求三星電子（Samsung Electronics Co.）、SK 海力士（SK Hynix Inc.）提供第六代高頻寬記憶體（HBM）「HBM4」樣本。 《韓國經濟新聞》19日引述業界消息報導，特斯拉要求三星、SK海力士供應通...",
+    "url": "https://technews.tw/2024/11/20/tesla-hbm4-sample/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/09/04173137/shutterstock_2437515801.jpg",
+    "publishedAt": "2024-11-20T05:30:14Z",
+    "content": "Tesla Inc. AI Samsung Electronics Co.SK SK Hynix Inc.HBMHBM4\r\n19SKHBM4\r\nGoogleMeta PlatformsMicrosoftHBM4AIHBMAI\r\nDojoFull Self-DrivingAI\r\nHBMAIDojoHBMDojoAID1HBM4AI\r\nMorgan Stanley2027HBM202340330HB… [+69 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investing.com"
+    },
+    "author": "Reuters",
+    "title": "China's Xpeng says no impact from US curbs on its Turing AI chip output",
+    "description": "China's Xpeng says no impact from US curbs on its Turing AI chip output",
+    "url": "https://www.investing.com/news/stock-market-news/xpeng-forecasts-quarterly-revenue-above-estimates-3729510",
+    "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
+    "publishedAt": "2024-11-20T05:25:41Z",
+    "content": "(Reuters) -Chinese electric vehicle maker Xpeng (NYSE:XPEV) said mass production of its Turing self-designed artificial intelligence chip was progressing well, dismissing concerns it could be hit by … [+2093 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Süddeutsche Zeitung"
+    },
+    "author": "Alle Entwicklungen im Liveblog",
+    "title": "US-Regierung: Trump will Ex-Wrestling-Managerin McMahon als Bildungsministerin",
+    "description": "Die einstige Wrestling-Unternehmerin werde Amerika zur „Nummer eins bei Bildung in der Welt machen“, sagte der designierte Präsident. Der TV-Arzt Oz soll die Gesundheitssysteme Medicare und Medicaid verantworten. Wall-Street-Manager Lutnick wird als US-Handel…",
+    "url": "https://www.sueddeutsche.de/politik/us-wahl-2024-news-liveblog-trump-kabinett-mcmahon-bildungsministerin-lux.JsBoEhvK9KD62rkh3f5szc",
+    "urlToImage": "https://www.sueddeutsche.de/2024/11/20/c2cc09bc-b4fd-4a85-a3d8-6739bfa7d91a.jpeg?q=60&fm=webp&width=1200&rect=0%2C46%2C3000%2C1688",
+    "publishedAt": "2024-11-20T05:18:02Z",
+    "content": "Der ehemalige Kongressabgeordnete Sean Duffy soll das Amt des Verkehrsministers übernehmen. Der 53-Jährige ist aktuell Co-Moderator einer Sendung beim Sender Fox Business, und war zuvor von 2011 bis … [+1472 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digi24.ro"
+    },
+    "author": "Raul Nețoiu",
+    "title": "Elon Musk vrea să le dea „delete” unor părți din guvernul SUA. Ce agenții federale au intrat în vizorul lui Donald Trump",
+    "description": "În noul lor rol de lideri ai Departamentului Eficienței Guvernamentale, miliardarul Elon Musk, fondatorul SpaceX și Tesla, și milionarul Vivek Ramaswamy, fondatorul Roivant Sciences și investitor în domeniul biotehnologiei, au promis că le vor da „delete” age…",
+    "url": "https://www.digi24.ro/stiri/externe/sua/elon-musk-vrea-sa-le-dea-delete-unor-parti-din-guvernul-sua-ce-agentii-federale-au-intrat-in-vizorul-lui-donald-trump-3012463",
+    "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYxMSUyRjE5JTJGMjEzMTk2NF8yMTMx/OTY0X0Vsb24tTXVzay1zdGVhZy1zdWEu/anBnJnc9MTIwMCZoPTYzMCZ6Yz0xJmhh/c2g9MDJmZTVjNzlmNTRmYzNhNWU1ZjAyYzk1NzBjMGViNDA=.thumb.jpg",
+    "publishedAt": "2024-11-20T05:00:19Z",
+    "content": "În noul lor rol de lideri ai Departamentului Eficienei Guvernamentale, miliardarul Elon Musk, fondatorul SpaceX i Tesla, i milionarul Vivek Ramaswamy, fondatorul Roivant Sciences i investitor în dome… [+4079 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Americanthinker.com"
+    },
+    "author": null,
+    "title": "Why isn't Joe Biden at Elon Musk's mighty, history-making, SpaceX launches?",
+    "description": "Elon Musk is making history.\r\n\r\nNo, not in being the first African-American to have as much as he has. It's not an identity thing, though he is fiercely American.\r\n\r\nUp until now, one's identity was the only subject of",
+    "url": "https://www.americanthinker.com/blog/2024/11/why_isn_t_joe_biden_at_elon_musk_s_mighty_history_making_spacex_launches.html",
+    "urlToImage": "https://images.americanthinker.com/m2/m24jwmrpr1zw3m2amrvy_800.JPG",
+    "publishedAt": "2024-11-20T05:00:00Z",
+    "content": "Elon Musk is making history.\r\nNo, not in being the first African-American to have as much as he has. It's not an identity thing, though he is fiercely American.\r\nUp until now, one's identity was the … [+3852 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Americanthinker.com"
+    },
+    "author": null,
+    "title": "Stuck on stupid: Jaguar takes a drive off Bud Light cliff",
+    "description": "Some things I can't understand.\r\n\r\nSuch as how a storied old company with a golden brand name could desecrate its image through a new campaign",
+    "url": "https://www.americanthinker.com/blog/2024/11/stuck_on_stupid_jaguar_takes_a_drive_off_budlight_cliff.html",
+    "urlToImage": "https://images.americanthinker.com/te/tevnbitnulgpvzbktauf_800.JPG",
+    "publishedAt": "2024-11-20T05:00:00Z",
+    "content": "Some things I can't understand.\r\nSuch as how a storied old company with a golden brand name could desecrate its image through a new campaign \"proving\" that it's woke and out of touch with the public?… [+5221 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "Reuters",
+    "title": "Senator says Trump cannot ignore law requiring ByteDance to divest TikTok by next year",
+    "description": "Senator Richard Blumenthal, a Democrat who is holding a hearing on Chinese hacking incidents, cited the law passed by Congress in April as a result of security concerns that China could access data on TikTok on Americans or spy on them with the app.",
+    "url": "https://economictimes.indiatimes.com/tech/technology/senator-says-trump-cannot-ignore-law-requiring-bytedance-to-divest-tiktok-by-next-year/articleshow/115472041.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-115472258,width-1200,height-630,imgsize-1161004,overlay-ettech/articleshow.jpg",
+    "publishedAt": "2024-11-20T04:56:03Z",
+    "content": "President-elect Donald Trump cannot ignore a law requiring Chinese-based ByteDance to divest its popular short video app TikTok in the US by early next year or face a ban, the Democratic chair of a U… [+2640 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vox"
+    },
+    "author": "Li Zhou",
+    "title": "Trump wants a big expansion in fossil fuel production. Can he do that?",
+    "description": "During his campaign, President-elect Donald Trump had a pointed tagline for his energy policy: “Drill, baby, drill.” That statement is emblematic of where Trump is poised to focus his efforts in a second term: He’s pledged US “energy dominance” and everything…",
+    "url": "https://www.vox.com/politics/386462/trump-fossil-fuels-gas-oil",
+    "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/11/gettyimages-1449198646.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "publishedAt": "2024-11-20T04:47:30Z",
+    "content": "During his campaign, President-elect Donald Trump had a pointed tagline for his energy policy: Drill, baby, drill.\r\nThat statement is emblematic of where Trump is poised to focus his efforts in a sec… [+10193 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "\"El milagro alemán se ha terminado y Europa sufrirá las consecuencias\": Kaput, el libro que explica la caída económica de Alemania",
+    "description": "Alemania protagonizó un “milagro económico” después de la Segunda Guerra Mundial que duró décadas. Sin embargo, la mayor economía de Europa está en problemas. Entrevistamos a Wolfgang Münchau, autor del libro Kaput.",
+    "url": "https://www.bbc.com/mundo/articles/c704lkllzxlo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/09a6/live/7b0e63b0-a34b-11ef-b604-65e44831060d.jpg",
+    "publishedAt": "2024-11-20T04:33:16Z",
+    "content": "Fuente de la imagen, Getty Images\r\nPie de foto, Después de cuatro períodos como canciller, Merkel dejó el poder en diciembre de 2021.\r\nInformación del artículo\r\nAlemania atraviesa tiempos realmente c… [+14310 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Süddeutsche Zeitung"
+    },
+    "author": "Lara Thiede",
+    "title": "Raumfahrt: Raketensystem „Starship“ meistert Testflug - mit Makel",
+    "description": "Bald soll Elon Musks SpaceX-Rakete der Menschheit den Mars erschließen. Bei ihrem sechsten Testflug ist auch Donald Trump als Zuschauer dabei. Es misslingt die Rückführung der Trägerrakete.",
+    "url": "https://www.sueddeutsche.de/wirtschaft/spacex-rakete-testflug-starship-lux.HvwDygqrp7mzRneJvSKeEt",
+    "urlToImage": "https://www.sueddeutsche.de/2024/11/20/371f6fd6-5d67-4b99-a4af-2580bc639101.jpeg?q=60&fm=webp&width=1200&rect=0%2C0%2C3900%2C2194",
+    "publishedAt": "2024-11-20T04:14:43Z",
+    "content": "Der designierte US-Präsident Donald Trump verfolgte zusammen mit SpaceX-Gründer Elon Musk den Start am Dienstag vor Ort in Texas.\r\nDas Starship erreichte bei seinem Trip eine Höhe von knapp 200 Kilom… [+1054 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "3dnews.ru"
+    },
+    "author": null,
+    "title": "Ким Кардашьян лично протестировала робота Optimus и беспилотное такси Tesla Cybercab",
+    "description": "Ким Кардашьян (Kim Kardashian) получила уникальную возможность протестировать робота-гуманоида Tesla Optimus. Звезда реалити-шоу опубликовала в своих социальных сетях видео, демонстрирующие её взаимодействие с Optimus. Она попросила робота сложить руки в форм…",
+    "url": "https://3dnews.ru/1114286/kim-kardashyan-lichno-protestirovala-robota-optimus-i-kibertaksi-tesla",
+    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/11/20/1114286/Tesla-Optimus-1.jpg",
+    "publishedAt": "2024-11-20T04:10:00Z",
+    "content": "(Kim Kardashian) - Tesla Optimus. - , Optimus. , «, , ».\r\n: Tesla\r\n, TechCrunch, , , , Tesla Cybercab — , , (Elon Musk), 2027 . Optimus : «, ». Cybercab, «» «». , X.\r\nTesla Optimus «We, Robot» , , , … [+80 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Unwire.hk"
+    },
+    "author": "藍骨",
+    "title": "Jaguar 大改品牌形象　準備變身全電車品牌",
+    "description": "英國豪華車廠 Jaguar（積架）最近宣佈，將會採用全新品牌形象，一改以往的典雅風格，改為前衛簡約的設計。\nThe post Jaguar 大改品牌形象　準備變身全電車品牌 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+    "url": "https://unwire.hk/2024/11/20/jaguar-reimagined/life-tech/auto/",
+    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/11/download1-17-694x390.jpg",
+    "publishedAt": "2024-11-20T04:00:59Z",
+    "content": "Jaguar\r\nJaguar Land Rover Gerry McGovern Jaguar \r\nJaguar Sir William Lyons Jaguar copy nothingdelete ordinarylive vivid\r\nJaguar 2026 Tesla Jaguar super-GT \r\nJaGUar\r\n:<li> Hyundai Kona Mauna Loa </li>… [+26 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investing.com"
+    },
+    "author": "Reuters",
+    "title": "Trump, Musk watch SpaceX launch Starship, booster misses landing",
+    "description": "Trump, Musk watch SpaceX launch Starship, booster misses landing",
+    "url": "https://www.investing.com/news/world-news/spacex-to-launch-sixth-starship-test-from-texas-with-trump-attending-3730771",
+    "urlToImage": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
+    "publishedAt": "2024-11-20T03:42:16Z",
+    "content": "By Joey Roulette\r\n(Reuters) -Elon Musk's SpaceX launched its giant Starship rocket to space from Texas on Tuesday, advancing the ship's spaceflight abilities but botching an attempt to bring its boos… [+4412 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "姚 惠茹",
+    "title": "全球 8 家企業市值破兆美元！波克夏唯一非科技類股、Meta 僅 9 年達陣",
+    "description": "隨著 AI 席捲全球，美股不斷衝高，全球已有 8 家企業市值破兆美元，其中有些數字觀察非常有趣，像是市值站穩第八大的波克夏（Berkshire Hathaway）是唯一非科技類股，市值在今年 8 月 28 日正式突破一兆美元大關，總計耗時 44 年 5 個月又 13 天，而市值最快破兆美元的是 Me...",
+    "url": "https://finance.technews.tw/2024/11/20/breaking-the-trillion-dollar-mark/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2024/08/29121013/shutterstock_1931158067.jpg",
+    "publishedAt": "2024-11-20T03:32:21Z",
+    "content": "AI 8 Berkshire Hathaway 8 28 44 5 13 Meta 9 1 10 \r\n 4 1 1 8 28 Warren Buffett 1980 44 5 13 \r\n 1980 12 18 Apple 37 7 15 2018 8 2 3 4 1986 3 13 Microsoft 33 1 12 2019 4 25 \r\nNVIDIA AI 1999 6 22 24 4 8 … [+183 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Crimethinc.com"
+    },
+    "author": "CrimethInc. Ex-Workers Collective",
+    "title": "The Case for Resistance : What We’re Up Against—and What It Could Look Like to Fight",
+    "description": "In this analysis, we explore what to expect from Donald Trump's second term and how we can prepare to confront it.",
+    "url": "https://crimethinc.com/2024/11/20/the-case-for-resistance-what-were-up-against-and-what-it-could-look-like-to-fight",
+    "urlToImage": "https://cdn.crimethinc.com/assets/articles/2024/11/20/header.jpg",
+    "publishedAt": "2024-11-20T03:31:21Z",
+    "content": "In the following analysis, we explore what we can expect from Donald Trump’s second term and how we can prepare to confront it. If you only have time to read one part, read the proposals for what we … [+45088 chars]"
+    },
+    {
+    "source": {
+    "id": "bild",
+    "name": "Bild"
+    },
+    "author": "Marcel Sacha",
+    "title": "Elon Musk und Donald Trump - Wie lange hält diese Freundschaft?",
+    "description": "Die Männerfreundschaft zwischen Donald Trump und Elon Musk sorgt für Schlagzeilen. Doch wie lange hält diese politische Verbindung?",
+    "url": "https://www.bild.de/politik/ausland-und-internationales/elon-musk-und-donald-trump-wie-lange-haelt-diese-freundschaft-673d34804df82f515063d1f3",
+    "urlToImage": "https://images.bild.de/673d34804df82f515063d1f3/cbd6ec88a7a93ace388d75dfcbaa9829,711ab2cc?w=1280",
+    "publishedAt": "2024-11-20T03:17:11Z",
+    "content": "Es ist die Männerfreundschaft des Jahres! Donald Trump und Elon Musk sind seit Wochen kaum noch voneinander zu trennen. Aber wird die einflussreiche Bromance (englisches Kofferwort für Brüderromanze)… [+2818 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": null,
+    "title": "Trump tariffs to push down U.S. growth 'a great deal' going into 2026, Morgan Stanley warns",
+    "description": "Donald Trump's proposed tariffs will dent U.S. economic growth going into 2026, said Morgan Stanley's chief global economist Seth Carpenter.",
+    "url": "https://www.cnbc.com/2024/11/20/trump-tariffs-to-push-down-us-growth-going-into-2026-morgan-stanley.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107187949-1675342426596-gettyimages-1461475908-inflationoutstrippingwagesinmostuscities008.jpeg?v=1709706881&w=1920&h=1080",
+    "publishedAt": "2024-11-20T03:13:00Z",
+    "content": "Donald Trump's proposed tariffs will dent U.S. economic growth going into 2026, said Morgan Stanley's chief global economist Seth Carpenter.\r\nPresident-elect Trump has stated that he intends to impos… [+2138 chars]"
+    },
+    {
+    "source": {
+    "id": "der-tagesspiegel",
+    "name": "Der Tagesspiegel"
+    },
+    "author": "Der Tagesspiegel",
+    "title": "Auflösung des Tesla-Protestcamps in Brandenburg: Polizei wieder im Einsatz – einige Aktivisten hängen noch in Bäumen",
+    "description": "Den dritten Tag in Folge ist die Polizei wegen Umweltaktivisten in Grünheide vor Ort. Mehrere Tesla-Gegner weigerten sich bisher, das Gelände zu verlassen.",
+    "url": "https://www.tagesspiegel.de/potsdam/brandenburg/protest-gegen-tesla-autofabrik-auflosung-des-tesla-protestcamps-polizei-wieder-im-einsatz-12736220.html",
+    "urlToImage": "https://www.tagesspiegel.de/images/12736217/alternates/BASE_16_9_W1400/1732071717000/polizei-einsatz-im-tesla-protestcamp-in-grunheide.jpeg",
+    "publishedAt": "2024-11-20T03:01:57Z",
+    "content": "Trotz der Auflösung des Protestcamps von Tesla-Gegnern in Grünheide bei Berlin ist heute Vormittag erneut mit einem Polizeieinsatz der Spezialisten der Höhenrettung zu rechnen. Einige Aktivisten hing… [+3211 chars]"
+    },
+    {
+    "source": {
+    "id": "der-tagesspiegel",
+    "name": "Der Tagesspiegel"
+    },
+    "author": "Der Tagesspiegel",
+    "title": "Protest gegen Tesla-Autofabrik: Auflösung des Tesla-Protestcamps - Polizei wieder im Einsatz",
+    "description": "Den dritten Tag in Folge ist die Polizei wegen Umweltaktivisten in Grünheide im Einsatz - trotz der Auflösung des Protestcamps.",
+    "url": "https://www.tagesspiegel.de/berlin/protest-gegen-tesla-autofabrik-auflosung-des-tesla-protestcamps-polizei-wieder-im-einsatz-12736220.html",
+    "urlToImage": "https://www.tagesspiegel.de/images/12736217/alternates/BASE_16_9_W1400/1732071717000/polizei-einsatz-im-tesla-protestcamp-in-grunheide.jpeg",
+    "publishedAt": "2024-11-20T03:01:57Z",
+    "content": "Trotz der Auflösung des Protestcamps von Tesla-Gegnern in Grünheide bei Berlin ist heute Vormittag erneut mit einem Polizeieinsatz der Spezialisten der Höhenrettung zu rechnen. Einige Aktivisten hing… [+2182 chars]"
+    },
+    {
+    "source": {
+    "id": "der-tagesspiegel",
+    "name": "Der Tagesspiegel"
+    },
+    "author": "Der Tagesspiegel",
+    "title": "Aktivisten von den Bäumen geholt: Räumung des Tesla-Protestcamps in Brandenburg beendet",
+    "description": "Den dritten Tag in Folge ist die Polizei wegen Umweltaktivisten in Grünheide vor Ort. Mehrere Tesla-Gegner hatten sich geweigert, das Gelände zu verlassen.",
+    "url": "https://www.tagesspiegel.de/potsdam/brandenburg/aktivisten-von-den-baumen-geholt-raumung-des-tesla-protestcamps-in-brandenburg-beendet-12736220.html",
+    "urlToImage": "https://www.tagesspiegel.de/images/12740510/alternates/BASE_16_9_W1400/1732111844000/raumung-tesla-protestcamp-in-grunheide.jpeg",
+    "publishedAt": "2024-11-20T03:01:57Z",
+    "content": "Nach tagelangem Einsatz hat die Polizei die Räumung des Protestcamps von Tesla-Gegnern im Wald nahe der Autofabrik in Grünheide bei Berlin abgeschlossen. Spezialisten der Polizei holten am Mittwoch e… [+3165 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "STERN.de"
+    },
+    "author": "STERN.de",
+    "title": "Protest gegen Tesla-Autofabrik: Auflösung des Tesla-Protestcamps - Polizei wieder im Einsatz",
+    "description": "Grünheide - Trotz der Auflösung des Protestcamps von Tesla-Gegnern in Grünheide bei Berlin ist heute Vormittag erneut mit einem Polizeieinsatz der",
+    "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/protest-gegen-tesla-autofabrik--aufloesung-des-tesla-protestcamps---polizei-wieder-im-einsatz-35242498.html",
+    "urlToImage": "https://image.stern.de/35242500/t/K-/v1/w1440/r1.7778/-/20--r4vtj2lgxkv13axs2048jpeg---ce38ca0a2ac800fc.jpg",
+    "publishedAt": "2024-11-20T03:00:44Z",
+    "content": "Kopiere den aktuellen Link\r\nDen dritten Tag in Folge ist die Polizei wegen Umweltaktivisten in Grünheide im Einsatz - trotz der Auflösung des Protestcamps.\r\nTrotz der Auflösung des Protestcamps von T… [+2245 chars]"
+    },
+    {
+    "source": {
+    "id": "die-zeit",
+    "name": "Die Zeit"
+    },
+    "author": "ZEIT ONLINE: News -",
+    "title": "Protest gegen Tesla-Autofabrik: Auflösung des Tesla-Protestcamps - Polizei wieder im Einsatz",
+    "description": "Hier finden Sie Informationen zu dem Thema „Protest gegen Tesla-Autofabrik“. Lesen Sie jetzt „Auflösung des Tesla-Protestcamps - Polizei wieder im Einsatz“.",
+    "url": "https://www.zeit.de/news/2024-11/20/aufloesung-des-tesla-protestcamps-polizei-wieder-im-einsatz",
+    "urlToImage": "https://img.zeit.de/news/2024-11/20/aufloesung-des-tesla-protestcamps-polizei-wieder-im-einsatz-image-group/wide__1300x731",
+    "publishedAt": "2024-11-20T03:00:44Z",
+    "content": "Trotz der Auflösung des Protestcamps von Tesla-Gegnern in Grünheide bei Berlin ist heute Vormittag erneut mit einem Polizeieinsatz der Spezialisten der Höhenrettung zu rechnen. Einige Aktivisten hing… [+2745 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ceebeks.com"
+    },
+    "author": "Angie",
+    "title": "Why Bother Doing Content Marketing? - Ceebeks",
+    "description": "Hello Chasers, There is so much to do running a business that there doesn’t seem to be much time left for marketing, however, this is one of (if not the most important) strategies for growing your business and staying relevant in the eyes of your existing and…",
+    "url": "https://www.ceebeks.com/why-bother-doing-content-marketing/",
+    "urlToImage": "https://www.ceebeks.com/wp-content/uploads/2024/11/WWW-20th-Nov-2024.gif",
+    "publishedAt": "2024-11-20T02:37:15Z",
+    "content": "Hello Chasers,\r\nThere is so much to do running a business that there doesnt seem to be much time left for marketing, however, this is one of (if not the most important) strategies for growing your bu… [+2615 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Trump và Tập: Có thể hàn gắn mối quan hệ ‘nồng ấm’ đã tan vỡ?",
+    "description": "Trong nhiệm kỳ thứ hai, ông Trump sẽ đối đầu với một Tập Cận Bình quyền lực hơn bao giờ hết. Sẽ có một cuộc chiến tranh thương mại thứ hai hay ông Tập một lần nữa sẽ dẫn ông Trump tham quan Tử Cấm Thành và dành cho nhau những lời êm ái?",
+    "url": "https://www.bbc.com/vietnamese/articles/cy4g2kj02e1o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_vietnamese/14e5/live/952ed250-a6e5-11ef-a4fe-a3e9a6c5d640.png",
+    "publishedAt": "2024-11-20T02:16:17Z",
+    "content": "Chp li hình nh, Ông Donald Trump tng tuyên b mình và ông Tp Cn Bình yêu quý nhau\r\nTi mt công viên th thao giáp vi nhng bc tng và tm lát màu xanh bóng chy vòng quanh Thiên àn Bc Kinh, mt nhóm hu trí a… [+12233 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Newsweekjapan.jp"
+    },
+    "author": "ニューズウィーク日本版ウェブ編集部",
+    "title": "【動画】テスラ人型ロボット「Tesla Bot」と交流するキム・カーダシアン...「金持ち自慢」と批判の声も [最新記事_2]",
+    "description": "＜キム・カーダシアンが18日、テスラが開発中の2足歩行型の人型ロボット「Tesla Bot」を「新しい友人」と呼び、交流する様子をインスタグラムのストーリーに投稿＞ 走る動作にフラダンス、投げキスも披露 Tesla let Kim Kardashian hang out today with the company's Optimus robot.Kim posted the video to her 500 million followers across social media. pic.twitter.c…",
+    "url": "https://www.newsweekjapan.jp/stories/culture/2024/11/525219.php",
+    "urlToImage": "https://www.newsweekjapan.jp/stories/assets_c/2024/11/newsweekjp20241120033629-7e446d1e00f8601857fbd6992f12c943410371d5-thumb-autox675-1405561.jpg",
+    "publishedAt": "2024-11-20T02:15:30Z",
+    "content": "Tesla let Kim Kardashian hang out today with the company's Optimus robot.\r\nKim posted the video to her 500 million followers across social media. pic.twitter.com/SPF5jBmWti\r\n— Sawyer Merritt (@Sawyer… [+25 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Pajiba.com"
+    },
+    "author": "Mike Redmond",
+    "title": "Dave Coulier to People Dragging John Stamos: 'Cut. It. Out.'",
+    "description": "Yesterday, John Stamos shared an Instagram photo where he showed \"solidarity\" with Dave Coulier by wearing a bald cap. Naturally, it didn't take long for people to tear Stamos a new one because, usually, the move in these situations is...\nRead more...",
+    "url": "https://www.pajiba.com/pajiba_love/dave-coulier-to-people-dragging-john-stamos-cut-it-out.php",
+    "urlToImage": "https://www.pajiba.com/assets_c/2024/11/dave-coulier-john-stamos-thumb-700x467-266753.jpg",
+    "publishedAt": "2024-11-20T02:00:00Z",
+    "content": "Yesterday, John Stamos shared an Instagram photo where he showed “solidarity” with Dave Coulier by wearing a bald cap. Naturally, it didn’t take long for people to tear Stamos a new one because, usua… [+1433 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cnbeta.com.tw"
+    },
+    "author": null,
+    "title": "FF首批FX原型车已成功抵达FF中国总部：两倍性能 一半价格",
+    "description": "法拉第未来官方微博宣布，首批FX原型车已成功抵达FF中国总部，该批车辆将从北京启程，前往洛杉矶FF总部。FF表示，首批原型车的起运标志着该车型开发测试阶段的正式启动，FX项目也将进入快车道，加速为美国用户提供“两倍性能、一半价格”的AIEV产品，朝着成为“AIEV时代的丰田”的目标前进。\r\nFX全球首席执行官Max Ma指出，首批原型车的起运是FX与合作伙伴扬帆美国AIEV蓝海市场的开始，这将为FX达成2025年底前首款车下线的战略目标进一步打下坚实基础，接下来，我们将在美国开启一系列测试工作，尽快打造出极致体价…",
+    "url": "https://www.cnbeta.com.tw/articles/tech/1456610.htm",
+    "urlToImage": "https://static.cnbetacdn.com/article/2024/1120/2af5946a5a55c3f.png",
+    "publishedAt": "2024-11-20T01:36:19Z",
+    "content": "0  2024-11-20 09:18:32\r\nFXMax MaFXAIEVFX2025AIEV\r\nFXFXTeslaTesla\r\n46TeslaTesla2-33-55-8\r\nFX 5FX 6AIEVAIEVFX2025\r\ncreated by ceallan"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Freerepublic.com"
+    },
+    "author": "Reuters via AOL",
+    "title": "US Senate panel to hold hearing on suspected Chinese hacking incidents",
+    "description": "WASHINGTON (Reuters) -A U.S. Senate Judiciary subcommittee overseeing technology issues will hold a hearing Tuesday on Chinese hacking incidents, including a recent incident involving American telecom companies. The hearing to be chaired by Senator Richard Bl…",
+    "url": "https://freerepublic.com/focus/f-chat/4279553/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-11-20T01:16:03Z",
+    "content": "Skip to comments.\r\nUS Senate panel to hold hearing on suspected Chinese hacking incidentsReuters via AOL ^\r\n | 11/18/24\r\n | David Shepardson\r\nPosted on 11/19/2024 5:16:03 PM PST by Libloather\r\nWASHIN… [+3195 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Will Townsend, Contributor, \n Will Townsend, Contributor\n https://www.forbes.com/sites/moorinsights/people/willtownsend/",
+    "title": "5G Techritory 2024 Reaches Beyond Mobile Connectivity",
+    "description": "The Riga, Latvia event highlights innovative use cases that leverage 5G, AI, mixed reality and more while fostering collaboration between government and private industry.",
+    "url": "https://www.forbes.com/sites/moorinsights/2024/11/19/5g-techritory-2024-reaches-beyond-mobile-connectivity/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673d30c379e1267e2a404f45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-11-20T00:51:06Z",
+    "content": "Non-Terrestrial Networks panel discussion at 5G Techritory 2024\r\nWill Townsend\r\nThis year marked my sixth anniversary participating in 5G Techritory. Based in the beautiful Latvian city of Riga, the … [+7642 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fark.com"
+    },
+    "author": null,
+    "title": "Dear Quentin: As a Democrat who drives a Tesla I've been told that I'm a hypocrite. Should I sell my car? [Facepalm]",
+    "description": "Dear Quentin: As a Democrat who drives a Tesla I've been told that I'm a hypocrite. Should I sell my car?",
+    "url": "https://www.fark.com/comments/13468336/Dear-Quentin-As-a-Democrat-who-drives-a-Tesla-Ive-been-told-that-Im-a-hypocrite-Should-I-sell-my-car",
+    "urlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
+    "publishedAt": "2024-11-20T00:38:52Z",
+    "content": "Rambino:petec: AmbassadorBooze: montreal_medic: AmbassadorBooze: Don't sell it.  That just passes the infection on.  If you own a Tesla, you are already corrupted.  The best thing you can do is destr… [+404 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Terra.com.br"
+    },
+    "author": "Reuters",
+    "title": "Trump e Musk acompanham lançamento da Starship da SpaceX, mas booster não consegue aterrissar",
+    "description": "A SpaceX, de Elon Musk, lançou seu foguete Starship gigante para o espaço a partir do Texas ...",
+    "url": "https://www.terra.com.br/noticias/mundo/trump-e-musk-assistem-lancamento-do-starship-da-spacex-do-texas,31bd195119b80358eccd671ff6ab9faf0tum10wr.html",
+    "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+    "publishedAt": "2024-11-20T00:29:04Z",
+    "content": "A SpaceX, de Elon Musk, lançou seu foguete Starship gigante para o espaço a partir do Texas nesta terça-feira, avançando as habilidades de voo espacial da nave, mas falhando em uma tentativa de traze… [+3798 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "MoneyDJ",
+    "title": "甩烏俄戰陰影，輝達財報前勁揚、費半漲",
+    "description": "輝達（Nvidia Corp.）在財報公布前勁揚，激勵那斯達克指數、費城半導體指數雙雙反彈，投資人甩脫烏克蘭、俄羅斯關係日趨緊繃的地緣政治陰霾。 道瓊工業平均指數11月19日終場下跌0.28%（120.66點）、收43,268.94點，創11月5日以來收盤新低，已連續第4個交易日走跌。那斯達克指數上...",
+    "url": "https://finance.technews.tw/2024/11/20/usa-stock-market-19th-november/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/01/04154823/shutterstock_1917266012.jpg",
+    "publishedAt": "2024-11-20T00:15:12Z",
+    "content": "Nvidia Corp.\r\n11190.28%120.6643,268.9411541.04%195.6618,987.475000.4%23.365,916.980.62%30.384,919.15\r\nVladimir Putin\r\nSergei Lavrov\r\n204.89%147.011112FactSet8-100.70329.6MizuhoJordan Klein11-1390~400… [+261 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motley Fool Australia"
+    },
+    "author": "Zach Bristow",
+    "title": "Could the S&P 500 Index hit 6,500 by the end of 2025?",
+    "description": "Could the index climb higher?\nThe post Could the S&P 500 Index hit 6,500 by the end of 2025? appeared first on The Motley Fool Australia.",
+    "url": "https://www.fool.com.au/2024/11/20/could-the-sp-500-index-hit-6500-by-the-end-of-2025/",
+    "urlToImage": "https://www.fool.com.au/wp-content/uploads/2021/05/GettyImages-183766131-1-1200x675.jpg",
+    "publishedAt": "2024-11-20T00:12:19Z",
+    "content": "Several heavyweights predict a strong finish for the S&amp;P 500 Index (SP: .INX) in the next two years, which could be good news for those seeking exposure to US shares. \r\nAs a reminder, the S&amp;P… [+3249 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Andrea Margolis",
+    "title": "Brazil's first lady aims explicit joke at key target of husband's administration: 'F--k you, Elon Musk'",
+    "description": "Brazil’s first lady Janja Lula da Silva ripped Elon Musk over the weekend, telling the entrepreneur that she \"isn't afraid of him\" during a pre-G20 event.",
+    "url": "https://www.foxnews.com/world/brazils-first-lady-aims-explicit-joke-key-target-husbands-administration-f-k-you-elon-musk",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/copy-of-right-inset-48.png",
+    "publishedAt": "2024-11-20T00:11:14Z",
+    "content": "The first lady of Brazil turned heads when she dropped an f-bomb directed at Tesla CEO Elon Musk during an official event over the weekend.\r\nAt the time, Brazils first lady, Janja Lula da Silva, was … [+2086 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Pravda.com.ua"
+    },
+    "author": "Українська правда",
+    "title": "Трамп разом з Маском спостерігав за запуском Starship SpaceX",
+    "description": "У штаті Техас компанія SpaceX мільярдера Ілона Маска запустила свою ракетну систему Starship у шостий випробувальний політ. На стартовому майданчику компанії в Техасі був присутній новообраний президент США Дональд Трамп.",
+    "url": "https://www.pravda.com.ua/news/2024/11/20/7485385/",
+    "urlToImage": "https://img.pravda.com/images/doc/7/4/7485385_fb_image_ukr_2024_11_20_02_17_06.jpg",
+    "publishedAt": "2024-11-20T00:04:34Z",
+    "content": "SpaceX Starship . .\r\n: Reuters\r\n: 122 , , SpaceX -, .\r\n , - .\r\nReuters , Starship , , , , , .\r\n, , , 119 .\r\n\" , ', - , \", - , .\r\n13 , , SpaceX Tesla, , .\r\n , , .\r\n FAA Starship , , SpaceX, , .\r\n – St… [+66 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Pravda.com.ua"
+    },
+    "author": "Украинская правда",
+    "title": "Трамп вместе с Маском наблюдал за запуском Starship SpaceX",
+    "description": "В штате Техас компания SpaceX миллиардера Илона Маска запустила свою ракетную систему Starship в шестой испытательный полет. На стартовой площадке компании в Техасе присутствовал новоизбранный президент США Дональд Трамп.",
+    "url": "https://www.pravda.com.ua/rus/news/2024/11/20/7485385/",
+    "urlToImage": "https://img.pravda.com/images/doc/7/4/7485385_fb_image_rus_2024_11_20_02_17_06.jpg",
+    "publishedAt": "2024-11-20T00:04:34Z",
+    "content": "SpaceX Starship . .\r\n: Reuters\r\n 122 , , SpaceX -, .\r\n , - .\r\nReuters , Starship , , , , , .\r\n, , , 119 .\r\n\" , , - , \", - , .\r\n13 , , SpaceX Tesla, , .\r\n , , .\r\n FAA Starship , , SpaceX, , .\r\n - Star… [+64 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investing.com"
+    },
+    "author": "Investing.com",
+    "title": "Tesla chair Robyn Denholm sells $35.3 million in stock",
+    "description": "Tesla chair Robyn Denholm sells $35.3 million in stock",
+    "url": "https://www.investing.com/news/insider-trading-news/tesla-chair-robyn-denholm-sells-353-million-in-stock-93CH-3731462",
+    "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA6F0VZ_L.jpg",
+    "publishedAt": "2024-11-20T00:02:40Z",
+    "content": "Robyn Denholm, Chair of Tesla, Inc. (NASDAQ:TSLA), has recently sold a significant portion of her holdings in the company. According to a recent filing, Denholm sold shares valued at approximately $3… [+3932 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Joshua Nelson",
+    "title": "​Elon Musk and Vivek Ramaswamy approve the 'very reasonable proposal' to abolish Department of Education",
+    "description": "President-elect Donald Trump's appointments to his Department of Government Efficiency approve of the idea of abolishing the Department of Education.",
+    "url": "https://www.foxnews.com/media/elon-musk-vivek-ramaswamy-approve-very-reasonable-proposal-abolish-department-education",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/elon-vivek.jpg",
+    "publishedAt": "2024-11-20T00:00:39Z",
+    "content": "Elon Musk and Vivek Ramaswamy, appointments of President-elect Donald Trumps Department of Government Efficiency, gave their approval to a proposal that abolishes the Department of Education.\r\nCorey … [+1859 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": null,
+    "title": "株式会社グローバルインフォメーション電気自動車用通信コントローラの市場規模、2031年に15億米ドル到達予測",
+    "description": "株式会社グローバルインフォメーション（所在地：神奈川県川崎市、代表者：樋口 荘祐、証券コード：東証スタンダード 4171）は、市場調査レポート「電気自動車用通信コントローラの世界の市場規模、シェア、動向分析レポート（システム別、充電別、電気自動車別、用途別、地域別、展望と予測、2024年～2031年）」（KBV R...",
+    "url": "https://japan.cnet.com/release/31056601/",
+    "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+    "publishedAt": "2024-11-20T00:00:00Z",
+    "content": "2024CAGR32.7%203115\r\nEVEVCCEVEVIDEV202330%\r\n20249Vector Informatik GmbHEVCCISO 15118-20MICROSAR Classic Release 3220249Wiser HomeAIEV\r\nTesla, Inc.Siemens AGABB Group20249SiemenseMobilityHeliox\r\nEVCCE… [+88 chars]"
+    },
+    {
+    "source": {
+    "id": "fortune",
+    "name": "Fortune"
+    },
+    "author": "Chris Megerian, Michelle L. Price, The Associated Press",
+    "title": "Musk and Trump watch SpaceX launch together as Elon earns ‘uncle’ status among president-elect’s family",
+    "description": "Trump’s granddaughter Kai Trump posted a photo of her with Musk at one of Trump’s golf resorts, writing that Musk was \"achieving uncle status.”",
+    "url": "https://fortune.com/2024/11/19/donald-trump-elon-musk-spacex-starship-rocket-launch-texas/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/AP24324790453118-e1732060630586.jpg?resize=1200,600",
+    "publishedAt": "2024-11-19T23:59:45Z",
+    "content": "For two weeks, Donald Trump has welcomed Elon Musk into his world. On Tuesday, it was Musks turn to play host to the president-elect.Trump flew to South Texas to watch as Musks SpaceX launched a Star… [+4790 chars]"
+    },
+    {
+    "source": {
+    "id": "newsweek",
+    "name": "Newsweek"
+    },
+    "author": "Dan Gooding",
+    "title": "Alexis Pelosi's Government Salary Comes Under Scrutiny",
+    "description": "The niece-in-law of former House Speaker Nancy Pelosi was reportedly paid over $140,000 for her role with a government department.",
+    "url": "https://www.newsweek.com/nancy-pelosi-niece-government-salary-criticized-1988624",
+    "urlToImage": "https://d.newsweek.com/en/full/2525140/nancy-pelosi.jpg",
+    "publishedAt": "2024-11-19T23:50:27Z",
+    "content": "The salary paid to Nancy Pelosi's niece for her role within a federal government agency has come under scrutiny, including from one of the nominated heads of the new Department of Government Efficien… [+2930 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Starobserver.com.au"
+    },
+    "author": "Staff Writers",
+    "title": "GQ’s Beach House: Luxury & Community in St Kilda’s Vibrant Gaybourhood",
+    "description": "Nestled in the heart of St Kilda, Beach House by Gurner Group™ in partnership with Qualitas offers renters an unparalleled living experience.  St Kilda has long been a cultural epicentre ...\nThe post GQ’s Beach House: Luxury & Community in St Kilda’s Vibrant …",
+    "url": "https://www.starobserver.com.au/sponsored-content/gqs-beach-house-luxury-community-in-st-kildas-vibrant-gaybourhood/233639",
+    "urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2024/11/Beach-House-V2.png",
+    "publishedAt": "2024-11-19T23:48:23Z",
+    "content": "Nestled in the heart of St Kilda, Beach House by Gurner Group in partnership with Qualitas offers renters an unparalleled living experience. \r\nSt Kilda has long been a cultural epicentre for Melbourn… [+4570 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "g1tarist",
+    "title": "Все фигурки робота Optimus от Tesla были распроданы в течение дня по 40$ за штуку",
+    "description": "Фигурка выполнена в масштабе 1:10 и состоит из более чем 40 деталей",
+    "url": "https://overclockers.ru/blog/letsplay/show/192154/Vse-figurki-robota-Optimus-raskupili-v-techenie-dnya-po-40-za-shtuku",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/422417/588609_O.png",
+    "publishedAt": "2024-11-19T23:36:46Z",
+    "content": "Optimus Tesla, - , . , 40 , .\r\n Optimus 1:10 40 20 .   . 182 , 55 , 48 . , .\r\n, , , . Tesla Bot II Tesla, .\r\n Tesla , ."
+    },
+    {
+    "source": {
+    "id": "cbc-news",
+    "name": "CBC News"
+    },
+    "author": null,
+    "title": "Elon Musk launches Starship test flight with Donald Trump watching",
+    "description": "Elon Musk's SpaceX launched its sixth Starship test flight to space on Tuesday from Texas, eyeing an array of improvements on the rocket as U.S. president-elect Donald Trump watched in person.",
+    "url": "https://www.cbc.ca/news/world/elon-musk-starship-trump-1.7387893",
+    "urlToImage": "https://i.cbc.ca/1.7387942.1732057867!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump.JPG",
+    "publishedAt": "2024-11-19T23:26:05Z",
+    "content": "Elon Musk's SpaceX launched its sixth Starship test flight to space on Tuesday from Texas, eyeing an array of improvements on the rocket as U.S. president-elect Donald Trump watched in person.\r\nThe r… [+5877 chars]"
+    },
+    {
+    "source": {
+    "id": "newsweek",
+    "name": "Newsweek"
+    },
+    "author": "Jon Jackson",
+    "title": "Donald Trump Joins Elon Musk for SpaceX Launch",
+    "description": "The president-elect traveled to Texas to join Musk for the latest SpaceX launch of a Starship rocket.",
+    "url": "https://www.newsweek.com/donald-trump-joins-elon-musk-spacex-launch-1988613",
+    "urlToImage": "https://d.newsweek.com/en/full/2525134/elon-musk-donald-trump-texas.jpg",
+    "publishedAt": "2024-11-19T23:03:10Z",
+    "content": "President-elect Donald Trump joined Elon Musk in south Texas on Tuesday to watch SpaceX launch a Starship rocket.\r\nThough the launch was a success, SpaceX opted not to catch the booster with large me… [+2724 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Jalopnik"
+    },
+    "author": "Logan Carter",
+    "title": "2025 Mini Cooper Convertible Is Still An Exuberant Droptop That’s Unapologetic About Prioritizing Fun",
+    "description": "I’m a massive fan of Minis, both literally and figuratively. I’m 6-foot-8 and own a four-door 2017 Mini Cooper S hatchback, and anyone who knows me knows how much I love my car. In the modern profit-driven automotive market, automakers are consolidating produ…",
+    "url": "https://jalopnik.com/2025-mini-cooper-convertible-is-still-an-exuberant-drop-1851702462",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c142f3572d7f63343ec362a79f303a57.jpg",
+    "publishedAt": "2024-11-19T23:01:00Z",
+    "content": "Im a massive fan of Minis, both literally and figuratively. Im 6-foot-8 and own a four-door 2017 Mini Cooper S hatchback, and anyone who knows me knows how much I love my car. In the modern profit-dr… [+5824 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Adevarul.ro"
+    },
+    "author": "Afrodita Cicovschi",
+    "title": "Germania bulversează întreaga industrie auto europeană: livrările, afectate de întârzieri și amenzi uriașe",
+    "description": "Transportatorii de mașini din Europa se confruntă cu costuri de sute de mii de euro și potențiale amenzi după introducerea standardelor germane privind modul în care sunt asigurate vehiculele în remorci.",
+    "url": "https://adevarul.ro/economie/germania-bulverseaza-intreaga-industrie-auto-2402686.html",
+    "urlToImage": "https://cdn.adh.reperio.news/image-c/c156d9dc-5db6-46f7-9ef9-42b40c57045d/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+    "publishedAt": "2024-11-19T23:00:25Z",
+    "content": "Transportatorii de maini din Europa se confrunt cu costuri de sute de mii de euro i poteniale amenzi dup introducerea standardelor germane privind modul în care sunt asigurate vehiculele în remorci.\r… [+4971 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ZyCrypto"
+    },
+    "author": "Muthoni Mary Kiama",
+    "title": "Analyst Eyes 120% Dogecoin Surge as Elon Musk Revives “Dogefather” Title",
+    "description": "Dogecoin (DOGE) continues to garner attention across the crypto market after outperforming all the top ten largest cryptocurrencies by market cap.",
+    "url": "https://zycrypto.com/analyst-eyes-120-dogecoin-surge-as-elon-musk-revives-dogefather-title/",
+    "urlToImage": "https://zycrypto.com/wp-content/uploads/2022/11/Dogecoins-Future-Could-Follow-This-Bullish-Trajectory-To-1-DOGE-Price-Thanks-To-Elon-Musk.jpg",
+    "publishedAt": "2024-11-19T22:55:37Z",
+    "content": "Dogecoin (DOGE) continues to garner attention across the crypto market after outperforming all the top ten largest cryptocurrencies by market capitalization with a 167% monthly gain. Dogecoins rally … [+2153 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Aristeguinoticias.com"
+    },
+    "author": "Redacción AN / AG",
+    "title": "Videos | Trump se une a Elon Musk para el lanzamiento de la nave espacial de SpaceX",
+    "description": "\"Buena suerte a Elon Musk y a los grandes patriotas involucrados en este increíble proyecto\", dijo Trump en X.",
+    "url": "https://aristeguinoticias.com/1911/mundo/videos-trump-se-une-a-elon-musk-para-el-lanzamiento-de-la-nave-espacial-de-spacex/",
+    "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/11/trump-musk-lanzamiento-nave-starship-spacex-19112024.jpg",
+    "publishedAt": "2024-11-19T22:41:12Z",
+    "content": "Donald Trump, presidente electo de Estados Unidos, viajó este martes a Texas para acompañar al multimillonario Elon Musk a presenciar la sexta prueba de lanzamiento de la nave Starship de SpaceX.\r\n“B… [+1603 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes.com.mx"
+    },
+    "author": "Forbes Staff",
+    "title": "SpaceX inicia la sexta prueba del Starship, con Musk y Trump como testigos",
+    "description": "Forbes México.\n SpaceX inicia la sexta prueba del Starship, con Musk y Trump como testigos\n\nEl cohete, el más grande construido hasta la fecha, despega desde Starbase, la base ubicada en Boca Chica, cerca de la frontera con México.\nSpaceX inicia la sexta prue…",
+    "url": "https://forbes.com.mx/spacex-completa-la-sexta-prueba-del-starship-con-musk-y-trump-como-testigos/",
+    "urlToImage": "https://cdn.forbes.com.mx/2024/11/cohete.webp",
+    "publishedAt": "2024-11-19T22:38:53Z",
+    "content": "SpaceX inició la sexta prueba del Starship, el mayor cohete espacial jamás construido, con éxito, bajo la mirada atenta del CEO de la empresa aeroespacial, Elon Musk y el presidente electo de Estados… [+1567 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Securityaffairs.com"
+    },
+    "author": "Pierluigi Paganini",
+    "title": "Russian Phobos ransomware operator faces cybercrime charges",
+    "description": "Russian Phobos ransomware operator Evgenii Ptitsyn, accused of managing attacks, was extradited from South Korea to the US to face cybercrime charges. Russian Phobos ransomware operator Evgenii Ptitsyn, suspected of playing a key role in the ransomware operat…",
+    "url": "https://securityaffairs.com/171184/cyber-crime/phobos-ransomware-operator-faces-cybercrime-charges.html",
+    "urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/DoJ.jpg",
+    "publishedAt": "2024-11-19T22:36:29Z",
+    "content": "Russian Phobos ransomware operator faces cybercrime charges\r\n | Great Plains Regional Medical Center ransomware attack impacted 133,000 individuals\r\n | Recently disclosed VMware vCenter Server bugs a… [+117460 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sky.com"
+    },
+    "author": "Tim Jones",
+    "title": "Trump watches SpaceX launch, but test flight does not go as planned",
+    "description": "Elon Musk's SpaceX has successfully performed another launch of its Starship rocket in front of President-elect Donald Trump, but the test flight did not go perfectly.",
+    "url": "https://news.sky.com/story/donald-trump-watches-spacex-launch-with-elon-musk-but-test-flight-does-not-go-as-planned-13256979",
+    "urlToImage": "https://e3.365dm.com/24/11/1600x900/skynews-donald-trump-spacex_6752444.jpg?20241119225441",
+    "publishedAt": "2024-11-19T22:32:00Z",
+    "content": "Elon Musk's SpaceX has successfully performed another launch of its Starship rocket in front of President-elect Donald Trump, but the test flight did not go perfectly.\r\nThe 400ft (122m) high rocket s… [+2712 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2024-11-19T22:30:51Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Fran León",
+    "title": "Dónde comprar más baratos los ganadores de los Premios Xataka NordVPN 2024",
+    "description": "Se acaban de entregar los Premios Xataka NordVPN 2024 en los Cines Capitol de Madrid. Como cada año, nuestros lectores han elegido a los finalistas y el ganador de cada categoría, ha sido seleccionado con de los votos de los “xatakeros” más el del jurado (com…",
+    "url": "https://www.xataka.com/seleccion/donde-comprar-baratos-ganadores-premios-xataka-nordvpn-2024",
+    "urlToImage": "https://i.blogs.es/c4380e/ofertas_cpa_v3-copia---2024-11-19t113238.998/840_560.jpeg",
+    "publishedAt": "2024-11-19T22:30:25Z",
+    "content": "Se acaban de entregar los Premios Xataka NordVPN 2024 en los Cines Capitol de Madrid. Como cada año, nuestros lectores han elegido a los finalistas y el ganador de cada categoría, ha sido seleccionad… [+9845 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "newsweek.com",
+    "title": "Elon Musk Wants to Meet Alex Soros",
+    "description": "Tesla and SpaceX CEO Elon Musk has expressed interest in meeting Alex Soros, the philanthropist and son of progressive billionaire financier George Soros, following a series of exchanges on X, formerly Twitter, which Musk owns.\nThe proposal followed Soros' co…",
+    "url": "https://biztoc.com/x/4ea949a969331f7c",
+    "urlToImage": "https://biztoc.com/cdn/4ea949a969331f7c_s.webp",
+    "publishedAt": "2024-11-19T22:29:04Z",
+    "content": "Tesla and SpaceX CEO Elon Musk has expressed interest in meeting Alex Soros, the philanthropist and son of progressive billionaire financier George Soros, following a series of exchanges on X, former… [+142 chars]"
+    },
+    {
+    "source": {
+    "id": "newsweek",
+    "name": "Newsweek"
+    },
+    "author": "Jesus Mesa",
+    "title": "Elon Musk Wants to Meet Alex Soros",
+    "description": "Tesla and SpaceX CEO expressed interest in meeting Soros, the son of progressive billionaire financier George Soros.",
+    "url": "https://www.newsweek.com/elon-musk-wants-meet-alex-soros-1988575",
+    "urlToImage": "https://d.newsweek.com/en/full/2525086/alex-soros-elon-musk.jpg",
+    "publishedAt": "2024-11-19T22:24:25Z",
+    "content": "Tesla and SpaceX CEO Elon Musk has expressed interest in meeting Alex Soros, the philanthropist and son of progressive billionaire financier George Soros, following a series of exchanges on X, former… [+3403 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Freerepublic.com"
+    },
+    "author": "Tribune PK",
+    "title": "Elon Musk roasts Jaguar following bizarre relaunch commercial",
+    "description": "Tesla CEO Elon Musk didn’t hold back after watching Jaguar’s hallucinogenic relaunch commercial. The ad, meant to mark a new chapter for the iconic British automaker, had many viewers wondering if Jaguar was selling cars or auditioning for a spot in a high-fa…",
+    "url": "https://freerepublic.com/focus/f-news/4279515/posts",
+    "urlToImage": null,
+    "publishedAt": "2024-11-19T22:20:47Z",
+    "content": "Skip to comments.\r\nElon Musk roasts Jaguar following bizarre relaunch commercialTribune PK ^\r\n | 11 19 2024\r\n | Staff\r\nPosted on 11/19/2024 2:20:47 PM PST by yesthatjallen\r\nTesla CEO Elon Musk didnt … [+1317 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
+    },
+    "author": "Reuters",
+    "title": "Elon Musk's 6th SpaceX Rocket Takes Off With Donald Trump In Attendance",
+    "description": "Elon Musk&#039;s SpaceX launched its sixth Starship test flight to space on Tuesday from Texas, eyeing an array of improvements on the rocket as US President-elect Donald Trump watched in person.",
+    "url": "https://www.ndtv.com/world-news/elon-musk-launches-6th-spacex-rocket-in-donald-trumps-presence-7059459",
+    "urlToImage": "https://c.ndtvimg.com/2024-11/6tv3tea8_spacex-rocket-launch_625x300_20_November_24.jpeg",
+    "publishedAt": "2024-11-19T22:14:40Z",
+    "content": "Elon Musk's SpaceX launched its sixth Starship test flight to space on Tuesday from Texas, eyeing an array of improvements on the rocket as US President-elect Donald Trump watched in person.\r\nThe rou… [+3227 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PBS"
+    },
+    "author": "Chris Megerian, Associated Press, Michelle L. Price, Associated Press",
+    "title": "Trump and Musk deepen their bond with trip to Texas for Starship rocket launch",
+    "description": "The billionaire has been helping shape the new administration and he's positioned in a way that could help his own companies, which have billions of dollars in federal contracts and routinely deal with government regulators.",
+    "url": "https://www.pbs.org/newshour/politics/trump-and-musk-deepen-their-bond-with-trip-to-texas-for-starship-rocket-launch",
+    "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/11/2024-11-19T214810Z_391955910_RC2L8BA6TXW3_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+    "publishedAt": "2024-11-19T22:12:51Z",
+    "content": "WASHINGTON (AP) Donald Trump arrived in Brownsville, Texas, on Tuesday to watch one of Elon Musk ‘s companies test its Starship rocket, the latest sign of a deepening bond between the president-elect… [+5185 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "Zelikman",
+    "title": "Tesla работает над новым семейным кроссовером",
+    "description": "Автомобиль станет самым крупным среди всех имеющихся моделей компании",
+    "url": "https://overclockers.ru/blog/Zelikman/show/192108/Tesla-rabotaet-nad-novym-semejnym-krossoverom",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/413830/588488_O.jpg",
+    "publishedAt": "2024-11-19T22:12:47Z",
+    "content": ", Tesla , . Teslarati , , , , Model X.\r\n  Tesla X. , , , , - . , , .\r\n  , , Robovan, Cybercab. , , Tesla .\r\n  Tesla . Reuters, , , 5%. , .\r\n  Tesla Cybercab , , 2,5 . , ."
+    },
+    {
+    "source": {
+    "id": "ign",
+    "name": "IGN"
+    },
+    "author": "Gabriel Sales",
+    "title": "“Ele não sabe de nada, ficou calado\": o maior fabricante de baterias do mundo explica por que a ideia de Elon Musk fracassará",
+    "description": "Ele acredita que seu conhecimento limitado sobre baterias afetará a confiabilidade do Cybertruck.",
+    "url": "https://br.ign.com/tech/132522/news/ele-nao-sabe-de-nada-ficou-calado-o-maior-fabricante-de-baterias-do-mundo-explica-por-que-a-ideia-de",
+    "urlToImage": "https://sm.ign.com/t/ign_br/screenshot/default/elon-musk_9wgk.1200.jpg",
+    "publishedAt": "2024-11-19T22:08:26Z",
+    "content": "Poucas pessoas são tão conhecidas no mundo tecnológico quanto Elon Musk, o chefe visível de projetos como Tesla, SpaceX e a rede social X (antigo Twitter). Musk conseguiu se tornar um artíficespor tr… [+1960 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Fred Lambert",
+    "title": "Tesla turns to its ‘Tesla Electric’ utility service to help sell cars",
+    "description": "Tesla is now using ‘Tesla Electric’, its electric utility service in Texas, to help sell cars with a new incentive.\n\n\n\n more…",
+    "url": "http://electrek.co/2024/11/19/tesla-turns-to-its-tesla-electric-utility-service-to-help-sell-cars/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/12/Tesla-Electric.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-11-19T22:05:40Z",
+    "content": "Tesla is now using ‘Tesla Electric’, its electric utility service in Texas, to help sell cars with a new incentive.\r\nAfter gaining experience through its virtual power plants (VPPs), Tesla took thing… [+3486 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BFMTV"
+    },
+    "author": "A.g",
+    "title": "Emmanuel Macron invite Donald Trump et Elon Musk en France pour un sommet sur l'IA prévu en février 2025",
+    "description": "Le président de la République affirme ce mardi 19 novembre qu'il a invité \"la Chine, les États-Unis et les grands pays qui sont impliqués\" au sommet sur l'intelligence artificielle prévu en février 2025 en France.",
+    "url": "https://www.bfmtv.com/tech/intelligence-artificielle/emmanuel-macron-invite-donald-trump-et-elon-musk-en-france-pour-un-sommet-sur-l-ia-prevu-en-fevrier-2025_AD-202411191030.html",
+    "urlToImage": "https://images.bfmtv.com/v0ibvUmXSbWKqNosGp6Mtmos1fU=/0x105:2048x1257/2048x0/images/Emmanuel-Macron-s-exprime-lors-d-une-conference-de-presse-a-l-aeroport-international-Galeao-de-Rio-de-Janeiro-au-Bresil-le-19-novembre-2024-1980311.jpg",
+    "publishedAt": "2024-11-19T22:02:41Z",
+    "content": "Le président de la République affirme ce mardi 19 novembre qu'il a invité \"la Chine, les États-Unis et les grands pays qui sont impliqués\" au sommet sur l'intelligence artificielle prévu en février 2… [+1026 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Bankier.pl"
+    },
+    "author": "Redaktor Bankier.pl",
+    "title": "Przewaga wzrostów indeksów na Wall Street. Wzrosty spółek technologicznych",
+    "description": "Indeksy na Wall Street głównie zwyżkowały we wtorek, w górę poszły zwłaszcza spółki technologiczne. Analitycy wskazują, że inwestorzy są pozytywnie nastawieni do perspektyw dla rynku akcji, a wzrost napięcia geopolitycznego nie wpłynął negatywnie na nastroje.",
+    "url": "https://www.bankier.pl/wiadomosc/Przewaga-wzrostow-indeksow-na-Wall-Street-Wzrosty-spolek-technologicznych-8847956.html",
+    "urlToImage": "https://galeria.bankier.pl/p/9/8/69fd111667a914-948-568-0-14-3000-1799.jpg",
+    "publishedAt": "2024-11-19T22:01:00Z",
+    "content": "Indeksy na Wall Street gównie zwykoway we wtorek, w gór poszy zwaszcza spóki technologiczne. Analitycy wskazuj, e inwestorzy s pozytywnie nastawieni do perspektyw dla rynku akcji, a wzrost napicia ge… [+3231 chars]"
+    }
+  ]
 }
