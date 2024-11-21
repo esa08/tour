@@ -1,32 +1,30 @@
 {
-    
     "news" : {
-  "status": "ok",
-  "totalResults": 12463,
-  "articles": [
-    {
-      "source": {
-        "id": "lenta",
-        "name": "Lenta"
-      },
-      "author": "Карина Черных",
-      "title": "Непристойные фото Ким Кардашьян с роботом Tesla смутили фанатов",
-      "description": "Американская телезвезда Ким Кардашьян поделилась непристойными фото с роботом Tesla и смутила фанатов. Соответствующие публикация и комментарии появились на ее странице в Instagram (запрещенная в России соцсеть; принадлежит компании Meta, признанной экстремис…",
-      "url": "https://lenta.ru/news/2024/11/20/nepristoynye-foto-kim-kardashyan-s-robotom-tesla-smutili-fanatov/",
-      "urlToImage": "https://icdn.lenta.ru/images/2024/11/20/10/20241120103136966/share_22337f35e87c8a2d2b551ac429ad4c2f.jpeg",
-      "publishedAt": "2024-11-20T07:44:00Z",
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizchina.gr"
-      },
-      "author": "Κυν. Αίγειρος",
-      "title": "Nubia Z70 Ultra: επίδειξη ισχύος στο Geekbench με το Snapdragon 8 Elite",
-      "description": "Λίγο πριν από την επίσημη αποκάλυψή του, το Nubia Z70 Ultra εμφανίστηκε στο Geekbench, διαμορφώνοντας μερικές εντυπωσιακές βαθμολογίες. Το τηλέφωνο, το οποίο θα ενταχθεί στις ...\nThe post Nubia Z70 Ultra: επίδειξη ισχύος στο Geekbench με το Snapdragon 8 Elite…",
-      "url": "https://www.gizchina.gr/2024/11/20/nubia-z70-ultra-epideixi-ischyos/",
-      "urlToImage": "https://www.gizchina.gr/wp-content/uploads/2024/11/Nubia-Z70-1.jpg",
-    },
-  ]
-}
+        "status": "ok",
+        "totalResults": 12463,
+        "articles": [
+            {
+              "source": {
+                "id": "lenta",
+                "name": "Lenta"
+              },
+              "author": "Карина Черных",
+              "title": "Непристойные фото Ким Кардашьян с роботом Tesla смутили фанатов",
+              "description": "Американская телезвезда Ким Кардашьян поделилась непристойными фото с роботом Tesla и смутила фанатов. Соответствующие публикация и комментарии появились на ее странице в Instagram (запрещенная в России соцсеть; принадлежит компании Meta, признанной экстремис…",
+              "url": "https://lenta.ru/news/2024/11/20/nepristoynye-foto-kim-kardashyan-s-robotom-tesla-smutili-fanatov/",
+              "urlToImage": "https://icdn.lenta.ru/images/2024/11/20/10/20241120103136966/share_22337f35e87c8a2d2b551ac429ad4c2f.jpeg",
+              "publishedAt": "2024-11-20T07:44:00Z",
+            },
+            {
+              "source": {
+                "id": null,
+                "name": "Gizchina.gr"
+              },
+              "author": "Κυν. Αίγειρος",
+              "title": "Nubia Z70 Ultra: επίδειξη ισχύος στο Geekbench με το Snapdragon 8 Elite",
+              "description": "Λίγο πριν από την επίσημη αποκάλυψή του, το Nubia Z70 Ultra εμφανίστηκε στο Geekbench, διαμορφώνοντας μερικές εντυπωσιακές βαθμολογίες. Το τηλέφωνο, το οποίο θα ενταχθεί στις ...\nThe post Nubia Z70 Ultra: επίδειξη ισχύος στο Geekbench με το Snapdragon 8 Elite…",
+              "url": "https://www.gizchina.gr/2024/11/20/nubia-z70-ultra-epideixi-ischyos/",
+              "urlToImage": "https://www.gizchina.gr/wp-content/uploads/2024/11/Nubia-Z70-1.jpg",
+            },
+      ]
 }
